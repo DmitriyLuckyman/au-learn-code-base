@@ -1,7 +1,6 @@
 package ru.spbau.bandurin.task2;
 
 import java.io.File;
-import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.regex.Pattern;
 
@@ -10,18 +9,30 @@ import java.util.regex.Pattern;
  * @author Dmitriy Bandurin
  */
 public class Main {
+
     public static void main(String[] args) {
-        FSStructureElementHandler writer = null;
+        if(args.length != 1){
+            System.out.println("Expect one input parameter(directory path).");
+            return;
+        }
+
+        TreePrinter writer = null;
         try{
             writer = new TreePrinter(new OutputStreamWriter(System.out));
-            FileSystemWalker.traverse(new File(args[0]), writer, Pattern.compile("^[.]{1,2}$"),
+            FSWalker walker = new FSWalker(writer, Pattern.compile("^[.]{1,2}"),
                     new FileComparator(), true);
-        } catch (IOException e){
-            System.err.println("Strange error while write content : " + e.getMessage());
+            walker.walkFrom(new File(args[0]));
+        } catch (Exception e){
+            System.err.println("Strange error while traverse : " + e.getMessage());
             e.printStackTrace();
         } finally {
             if(writer != null){
-                writer.close();
+                try {
+                    writer.close();
+                } catch (Exception e) {
+                    System.err.println("Strange error while close writer : " + e.getMessage());
+                    e.printStackTrace();
+                }
             }
         }
     }
