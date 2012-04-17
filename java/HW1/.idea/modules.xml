@@ -8,6 +8,8 @@
       <module fileurl="file://$PROJECT_DIR$/../HW4-1/HW4-1.iml" filepath="$PROJECT_DIR$/../HW4-1/HW4-1.iml" group="Java" />
       <module fileurl="file://$PROJECT_DIR$/../HW4-2/HW4-2.iml" filepath="$PROJECT_DIR$/../HW4-2/HW4-2.iml" group="Java" />
       <module fileurl="file://$PROJECT_DIR$/../HW5/HW5.iml" filepath="$PROJECT_DIR$/../HW5/HW5.iml" group="Java" />
+      <module fileurl="file://$PROJECT_DIR$/../HW6/HW6.iml" filepath="$PROJECT_DIR$/../HW6/HW6.iml" group="Java" />
+      <module fileurl="file://$PROJECT_DIR$/../HW7/HW7.iml" filepath="$PROJECT_DIR$/../HW7/HW7.iml" group="Java" />
     </modules>
   </component>
 </project>

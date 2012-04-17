@@ -28,38 +28,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e954b1f5-47d9-45a2-949b-feac3179ea8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/projectCodeStyle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HW1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW3/HW3.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW4-1/HW4-1.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW4-2/HW4-2.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW5/HW5.iml" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW1\Java HW1.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW2\Java HW1.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW2\test.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW2\test2.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW3\Java HW1.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW3\test.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW3\test2.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW4-1\Java HW1.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW4-1\test.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW4-1\test2.data" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW4-2\Java HW1.iml" afterPath="" />
-      <change type="DELETED" beforePath="E:\AU\au-code-base\java\HW5\Java HW1.iml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW6/HW6.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/HW7.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/DistributedIncrementor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/InRangeGenerator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/IncorrectRangeException.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/StupidChild.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/Task.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/Worker.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java HW1.iws" />
@@ -117,7 +94,62 @@
     <favorites_list name="Java HW1" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="StupidChild.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/StupidChild.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InRangeGenerator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/InRangeGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="61" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IncorrectRangeException.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/IncorrectRangeException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DistributedIncrementor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/DistributedIncrementor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="22" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Worker.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/Worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="19" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/Task.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.06861063">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -132,11 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task2/Main.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task2/ExtendedMain.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task2/ElementHandlerChainWrapper.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/Reader.java" />
-        <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/Parser.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/Operand.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/Operator.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/DivideOperator.java" />
@@ -148,6 +175,11 @@
         <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/EvalOperator.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/AbstractMessageWriter.java" />
         <option value="$PROJECT_DIR$/src/ru/spbau/bandurin/task3/Variable.java" />
+        <option value="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/DistributedIncrementor.java" />
+        <option value="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/StupidChild.java" />
+        <option value="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/IncorrectRangeException.java" />
+        <option value="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/GenerationRange.java" />
+        <option value="$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/InRangeGenerator.java" />
       </list>
     </option>
   </component>
@@ -185,6 +217,16 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -202,18 +244,8 @@
               <option name="myItemId" value="Java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Java HW1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HW4-1" />
+              <option name="myItemId" value="HW7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -227,21 +259,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java HW1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HW3" />
+              <option name="myItemId" value="HW7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -261,7 +279,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="task3" />
+              <option name="myItemId" value="task7" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java HW1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java HW1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HW5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -275,22 +317,46 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW3" />
+              <option name="myItemId" value="HW5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spbau" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bandurin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java HW1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleGroupNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HW5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -303,8 +369,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Java HW1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+              <option name="myItemId" value="Java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -326,15 +392,19 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="options.searchVisible" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AU\au-code-base\java\HW6" />
+    </key>
     <key name="IntroduceConstantDialog.RECENTS_KEY">
       <recent name="ru.spbau.bandurin.task2.FileSystemWalker" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="ru.spbau.bandurin.task7" />
       <recent name="ru.spbau.bandurin.task3" />
       <recent name="ru.spbau.bandurin.task2" />
       <recent name="ru.spbau.bandurin.task1" />
@@ -541,10 +611,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1599" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -554,6 +624,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -568,7 +639,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -609,7 +679,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -728,6 +798,42 @@
         <state line="73" column="14" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.68289924" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/StupidChild.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="205" selection-end="205" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/IncorrectRangeException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/DistributedIncrementor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="187" selection-end="187" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="19" selection-start="208" selection-end="208" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/InRangeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="61" selection-start="311" selection-end="311" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../HW7/src/ru/spbau/bandurin/task7/Task.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="0.06861063">
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -736,9 +842,9 @@
           <artifact-editor>
             <show-content>
               <type id="artifact" />
-              <type id="jpa-descriptors" />
-              <type id="javaee-facet-resources" />
               <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
             </show-content>
           </artifact-editor>
           <last-edited>sourceTask1</last-edited>
@@ -790,7 +896,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>HW1|Java</last-edited>
+          <last-edited>HW7|Java</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
