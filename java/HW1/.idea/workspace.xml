@@ -28,24 +28,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e954b1f5-47d9-45a2-949b-feac3179ea8d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/AbstractMessageWriter.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/AbstractMessageWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/CompressingMessageWriter.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/CompressingMessageWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/ConsoleMessageWriter.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/ConsoleMessageWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/FileMessageReader.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/FileMessageReader.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/FileMessageWriter.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/FileMessageWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/IllegalMessageFormatException.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/IllegalMessageFormatException.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/Main.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/Message.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/Message.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/MessageWriter.java" afterPath="$PROJECT_DIR$/src/ru/spbau/bandurin/task1/MessageWriter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Java HW1.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="e954b1f5-47d9-45a2-949b-feac3179ea8d" time="1361304675366" ignored="false" />
+    <file path="/Dummy.txt" changelist="e954b1f5-47d9-45a2-949b-feac3179ea8d" time="1361304750609" ignored="false" />
     <file path="/fragment.java" changelist="e954b1f5-47d9-45a2-949b-feac3179ea8d" time="1361304131571" ignored="false" />
     <file path="/CompressingMessageWriter.java" changelist="e954b1f5-47d9-45a2-949b-feac3179ea8d" time="1361303855486" ignored="false" />
     <file path="/MessageWriter.java" changelist="e954b1f5-47d9-45a2-949b-feac3179ea8d" time="1361304016620" ignored="false" />
@@ -145,7 +132,7 @@
       <file leaf-file-name="CompressingMessageWriter.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/spbau/bandurin/task1/CompressingMessageWriter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="22" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.57863504">
+            <state line="56" column="22" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.54285717">
               <folding />
             </state>
           </provider>
@@ -561,6 +548,11 @@
       <created>1330323220602</created>
       <updated>1330323220602</updated>
     </task>
+    <task id="LOCAL-00001" summary="fixes">
+      <created>1361304837322</created>
+      <updated>1361304837322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -578,7 +570,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -827,7 +819,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/spbau/bandurin/task1/CompressingMessageWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="22" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.57863504">
+        <state line="56" column="22" selection-start="1865" selection-end="1865" vertical-scroll-proportion="0.54285717">
           <folding />
         </state>
       </provider>
