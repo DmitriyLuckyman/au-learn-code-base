@@ -8,22 +8,21 @@ import java.util.List;
  * @author Dmitriy Bandurin
  */
 public class FileMessageWriter extends AbstractMessageWriter {
-    public FileMessageWriter(String filePath) {
-        try {
-            initWriter(new FileWriter(new File(filePath)));
-        } catch (IOException e) {
-            System.err.println(new StringBuilder().append("Error while open file ")
-                    .append(filePath).append(" : ").append(e.getMessage()).toString());
-            e.printStackTrace(); 
-        }
+    /**
+     * Create new FileMessageWriter which write to given file
+     * @param filePath path of file to write
+     * @throws IOException if any occurred while working with given file.
+     */
+    public FileMessageWriter(final String filePath) throws IOException {
+        initWriter(new FileWriter(new File(filePath)));
     }
 
     /**
-     * write message to File
+     * Write message to File
      * @param message message to write
      * @throws IOException if any exception occurred while writing content
      */
-    public void writeMessage(Message message) throws IOException {
+    public void writeMessage(final Message message) throws IOException {
         if(message != null){
             final List<String> lines = message.getLines();
             writeLine(String.valueOf(lines.size()));

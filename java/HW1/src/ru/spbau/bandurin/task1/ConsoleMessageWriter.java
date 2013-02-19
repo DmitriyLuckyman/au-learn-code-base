@@ -10,11 +10,19 @@ import java.io.*;
 public class ConsoleMessageWriter extends AbstractMessageWriter {
     private int messageCounter;
 
+    /**
+     * Create ConsoleMessageWriter and set output to System.out
+     */
     public ConsoleMessageWriter() {
         initWriter(new PrintWriter(System.out));
     }
 
-    public void writeMessage(Message message) throws IOException {
+    /**
+     * Write message with message number and line number in message per message line
+     * @param message message to write
+     * @throws IOException if any exception occurred while writing content
+     */
+    public void writeMessage(final Message message) throws IOException {
         if(message != null){
             messageCounter++;
             writeLine("Message " + messageCounter);

@@ -11,19 +11,19 @@ public abstract class AbstractMessageWriter implements MessageWriter {
     private Writer writer;
 
     /**
-     * set writer for message write
+     * Set writer for message write
      * @param writer writer
      */
-    protected void initWriter(Writer writer) {
+    protected void initWriter(final Writer writer) {
         this.writer = writer;
     }
 
     /**
-     * write single line to writer
+     * Write single line to writer
      * @param line line to write
      * @throws IOException if any exception occurred while writing content
      */
-    public void writeLine(String line) throws IOException {
+    protected void writeLine(final String line) throws IOException {
         writer.write(line);
         writer.write("\n");
         writer.flush();
@@ -31,16 +31,11 @@ public abstract class AbstractMessageWriter implements MessageWriter {
 
     /**
      * Free used resources
+     * @throws IOException if any exception occurred while close used resource
      */
-    public void close(){
+    public void close() throws IOException {
         if(writer != null){
-            try {
-                writer.close();
-            } catch (IOException e) {
-                System.err.println(new StringBuilder().append("Can't close Writer : ")
-                        .append(e.getMessage()).toString());
-                e.printStackTrace();
-            }
+            writer.close();
         }
     }
 }

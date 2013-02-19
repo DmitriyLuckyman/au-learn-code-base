@@ -10,13 +10,22 @@ import java.io.IOException;
  */
 public class CompressingMessageWriter implements MessageWriter {
     private Message bufferedMessage;
-    private MessageWriter messageWriter;
+    private final MessageWriter messageWriter;
 
-    public CompressingMessageWriter(MessageWriter writer) {
+    /**
+     * Create new CompressingMessageWriter with specified destination MessageWriter
+     * @param writer destination message writer
+     */
+    public CompressingMessageWriter(final MessageWriter writer) {
         messageWriter = writer;
     }
 
-    public void writeMessage(Message message) throws IOException {
+    /**
+     * Write messages with compress two message into one
+     * @param message message to write
+     * @throws IOException  if any exception occurred while writing content
+     */
+    public void writeMessage(final Message message) throws IOException {
         if(message != null){
             if(bufferedMessage == null){
                 bufferedMessage = message;
@@ -28,15 +37,30 @@ public class CompressingMessageWriter implements MessageWriter {
         }
     }
 
-    public void close() {
-        if(bufferedMessage != null){
-            try {
+    /**
+     * If message buffer is not empty write message to MessageWriter.
+     * and then close used resources.
+     * @throws IOException if any exception occurred while write content or close resource
+     */
+    public void close() throws IOException {
+        try {
+            if(bufferedMessage != null) {
                 messageWriter.writeMessage(bufferedMessage);
-            } catch (IOException e) {
-                System.err.println("Can't write message : " + e.getMessage());
-                e.printStackTrace();
+                bufferedMessage = null;
+            }
+        } finally {
+            //try to close write
+            try{
+                messageWriter.close();
+            } catch (IOException e){
+                if(bufferedMessage != null){
+                    throw e;
+                } else {
+                    //ignore because we override exception from write message action
+                    System.err.println("Strange exception : " + e.getMessage());
+                    e.printStackTrace();
+                }
             }
         }
-        messageWriter.close();
     }
 }

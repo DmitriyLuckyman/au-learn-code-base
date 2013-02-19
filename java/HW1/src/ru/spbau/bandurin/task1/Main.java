@@ -9,7 +9,7 @@ import java.io.IOException;
 public class Main {
 
     /**
-     *
+     * Compress messages from input to output stream.
      * @param args first parameter of args - input file path,
      *             second parameter of args - output file path(if not exist than messages writes to System.out).
      */
@@ -36,10 +36,20 @@ public class Main {
             e.printStackTrace();
         } finally {
             if(reader != null){
-                reader.close();
+                try {
+                    reader.close();
+                } catch (IOException e) {
+                    System.err.println("Strange exception : " + e.getMessage());
+                    e.printStackTrace();
+                }
             }
             if(writer != null){
-                writer.close();
+                try {
+                    writer.close();
+                } catch (IOException e) {
+                    System.err.println("Strange exception : " + e.getMessage());
+                    e.printStackTrace();
+                }
             }
         }
     }
