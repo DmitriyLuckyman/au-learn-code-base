@@ -2,6 +2,7 @@ package ru.spbau.bandurin.task2;
 
 import java.io.File;
 import java.io.FileFilter;
+import java.io.IOException;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.regex.Pattern;
@@ -12,34 +13,33 @@ import java.util.regex.Pattern;
  */
 public class FSWalker {
     private FSWalkerEvents eventsHandler;
-    private Pattern filter;
     private Comparator<File> fileComparator;
-    private boolean includeSubDirs;
+    private FileFilter fileFilter;
 
     /**
+     * Create new FsWalker with specified event handler file comparator and file Filter.
      * @param eventsHandler Handler for events occurred while traversing
      * @param filter pattern to exclude files from traverse. Filter use find semantic (may be null)
-     * @param fileComparator comparator for file traverse order. If null use default order for traverse
      * @param includeSubDirs traverse subdirectories also
+     * @param fileComparator comparator for file traverse order. If null used default order for traverse
      */
-    public FSWalker(FSWalkerEvents eventsHandler, Pattern filter, Comparator<File> fileComparator, boolean includeSubDirs) {
+    public FSWalker(final FSWalkerEvents eventsHandler, final Pattern filter, final boolean includeSubDirs, final Comparator<File> fileComparator) {
         this.eventsHandler = eventsHandler;
-        this.filter = filter;
+        this.fileFilter = getFilter(filter, includeSubDirs);
         this.fileComparator = fileComparator;
-        this.includeSubDirs = includeSubDirs;
     }
 
     /**
-     * traverse file system structure.
+     * Traverse file system structure.
      * @param fromFile start point to traverse file system.
-     * @throws Exception if any error occurred while walk through filesystem
+     * @throws IOException if any error occurred while walk through filesystem
      */
     public void walkFrom(final File fromFile)
-            throws Exception {
+            throws IOException {
         eventsHandler.startTraverse(fromFile);
 
-        if (!isAccessDenied(fromFile) && getFilter().accept(fromFile)) {
-            traverse(fromFile, true);
+        if (!isAccessDenied(fromFile) && fileFilter.accept(fromFile)) {
+            traverse(fromFile, 1, 1);
         } else {
             eventsHandler.error(fromFile, "Can't access abstract path");
         }
@@ -62,36 +62,36 @@ public class FSWalker {
         return accessDenied;
     }
 
-    private void traverse(final File file, boolean lastDir) throws Exception {
+    private void traverse(final File file, int totalCountOfFiles, int currentPosition) throws IOException {
         if(isAccessDenied(file)){
             eventsHandler.accessDeniedElement(file);
         } else {
             eventsHandler.handleElement(file);
             if (file.isDirectory()) {
-                eventsHandler.steppedInto(file, lastDir);
-                final File[] files = file.listFiles(getFilter());
+                eventsHandler.steppedInto(file, totalCountOfFiles, currentPosition);
+                final File[] files = file.listFiles(fileFilter);
                 if (files != null) {
                     if (fileComparator != null) {
                         Arrays.sort(files, fileComparator);
                     }
-                    int filesInDirectory = files.length;
+                    int filesInDirectory = 0;
                     for (File subFile : files) {
-                        traverse(subFile, --filesInDirectory == 0);
+                        traverse(subFile, files.length, ++filesInDirectory);
                     }
                 } else {
                     eventsHandler.error(file, "Can't get list of files");
                 }
-                eventsHandler.steppedOut(file, lastDir);
+                eventsHandler.steppedOut(file, totalCountOfFiles, currentPosition);
             }
         }
     }
 
-    private FileFilter getFilter() {
+    private FileFilter getFilter(final Pattern filter, final boolean includeSubDirs) {
         return new FileFilter() {
-            public boolean accept(File pathname) {
-                boolean result = pathname.isDirectory() && includeSubDirs || pathname.isFile();
+            public boolean accept(final File pathName) {
+                boolean result = pathName.isDirectory() && includeSubDirs || pathName.isFile();
                 if (result && filter != null) {
-                    result = !filter.matcher(pathname.getName()).find();
+                    result = !filter.matcher(pathName.getName()).find();
                 }
                 return result;
             }
