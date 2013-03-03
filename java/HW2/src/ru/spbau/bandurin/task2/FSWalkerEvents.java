@@ -1,6 +1,7 @@
 package ru.spbau.bandurin.task2;
 
 import java.io.File;
+import java.io.IOException;
 
 /**
  * Interface of events from file system traverse engine
@@ -12,51 +13,54 @@ public interface FSWalkerEvents {
      * Fire when error occurred
      * @param file current processed file
      * @param message error message
-     * @throws Exception if any exception occurred
+     * @throws IOException if any io problems occurred
      */
-    void error(File file, String message) throws Exception;
+    void error(File file, String message) throws IOException;
 
     /**
      * Fire when start traversing
      * @param rootFile root path for traversing
-     * @throws Exception if any exception occurred
+     * @throws IOException if any io problems occurred
      */
-    void startTraverse(File rootFile) throws Exception;
+    void startTraverse(File rootFile) throws IOException;
 
     /**
      * Fire when end traversing
      * @param fromFile root path for traversing
-     * @throws Exception if any exception occurred
+     * @throws IOException if any io problems occurred
      */
-    void endTraverse(File fromFile) throws Exception;
+    void endTraverse(File fromFile) throws IOException;
 
     /**
      * Fire when start traverse new directory
+     *
      * @param dir stepped into dir
-     * @param lastDir true if this dir is last dir in current traverse order
-     * @throws Exception if any exception occurred
+     * @param totalCountOfFiles Total count of files in parent directory
+     *@param currentPosition current position of traversed element in traverse order in parent directory
+     * @throws IOException if any io problems occurred
      */
-    void steppedInto(File dir, boolean lastDir) throws Exception;
+    void steppedInto(File dir, Integer totalCountOfFiles, Integer currentPosition) throws IOException;
 
     /**
      * Fire when finish traverse directory
      * @param dir stepped out dir
-     * @param lastDir  true if this dir is last dir in current traverse order
-     * @throws Exception if any exception occurred
+     * @param totalCountOfFiles Total count of files in parent directory
+     * @param currentPosition current position of traversed element in traverse order in parent directory *
+     * @throws IOException if any io problems occurred
      */
-    void steppedOut( File dir, boolean lastDir) throws Exception;
+    void steppedOut( File dir, Integer totalCountOfFiles, Integer currentPosition) throws IOException;
 
     /**
      * Fire when find file with access rights
      * @param file access denied file
-     * @throws Exception if any exception occurred
+     * @throws IOException if any io problems occurred
      */
-    void accessDeniedElement(File file) throws Exception;
+    void accessDeniedElement(File file) throws IOException;
 
     /**
      * Fire when start process directory or file
      * @param file file to handle
-     * @throws Exception if any exception occurred
+     * @throws IOException if any io problems occurred
      */
-    void handleElement(File file) throws Exception;
+    void handleElement(File file) throws IOException;
 }
