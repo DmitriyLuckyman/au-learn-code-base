@@ -25,15 +25,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/FSWalkerEventsAbstract.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/FSWalker.java" afterPath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/FSWalker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/Main.java" afterPath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/TreePrinter.java" afterPath="$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/TreePrinter.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="au-code-base.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362321156890" ignored="false" />
+    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362321534031" ignored="false" />
     <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316101708" ignored="false" />
     <file path="/FSWalker.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316860691" ignored="false" />
     <file path="/TreePrinter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316938730" ignored="false" />
@@ -467,7 +463,11 @@
       <created>1362321203987</created>
       <updated>1362321203987</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changes after review">
+      <created>1362321537612</created>
+      <updated>1362321537612</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
