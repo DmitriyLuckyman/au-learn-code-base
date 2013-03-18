@@ -30,14 +30,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="changes after review">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/HW3-2013.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW4/HW4.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW1/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/CompressOperation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/CompressorWalkerEventsHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/DecompressOperation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FSWalker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FSWalkerEvents.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FSWalkerEventsAbstract.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FileComparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/Question.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/ZipOperation.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="au-code-base.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637672784" ignored="false" />
+    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637868233" ignored="false" />
     <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637386760" ignored="false" />
     <file path="/FSWalker.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316860691" ignored="false" />
     <file path="/TreePrinter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316938730" ignored="false" />
@@ -47,7 +54,7 @@
     <file path="$PROJECT_DIR$/untitled1/HW3-2013.iml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362323958433" ignored="false" />
     <file path="/Compresser.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362339270035" ignored="false" />
     <file path="/Compressor.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362555823779" ignored="false" />
-    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637799481" ignored="false" />
+    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363638138978" ignored="false" />
     <file path="/FileMessageWriter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362398596784" ignored="false" />
     <file path="P:/CCBXAI/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362777732289" ignored="false" />
     <file path="/Mode.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362513823259" ignored="false" />
@@ -163,7 +170,7 @@
       <file leaf-file-name="DataInputStream.java" pinned="false" current="true" current-in-tab="true">
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="341" column="44" selection-start="13048" selection-end="13048" vertical-scroll-proportion="0.034246575">
+            <state line="364" column="47" selection-start="13928" selection-end="13928" vertical-scroll-proportion="0.82191783">
               <folding />
             </state>
           </provider>
@@ -649,14 +656,18 @@
       <created>1363637303520</created>
       <updated>1363637303520</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="changes after review">
+      <created>1363637827463</created>
+      <updated>1363637827463</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1598" height="1066" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.63216144" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.62890625" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -665,7 +676,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39828694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.36328125" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.36653647" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -860,16 +871,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/zip/InflaterInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="44" selection-start="13048" selection-end="13048" vertical-scroll-proportion="0.034246575">
+        <state line="177" column="0" selection-start="5159" selection-end="5329" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/zip/InflaterInputStream.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="0" selection-start="5159" selection-end="5329" vertical-scroll-proportion="0.0">
+        <state line="364" column="47" selection-start="13928" selection-end="13928" vertical-scroll-proportion="0.82191783">
           <folding />
         </state>
       </provider>
