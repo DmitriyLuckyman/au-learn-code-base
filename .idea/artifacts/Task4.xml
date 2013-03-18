@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Task4">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task4</output-path>
+    <root id="archive" name="Task4.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/java/HW4/src" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/java/HW4/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

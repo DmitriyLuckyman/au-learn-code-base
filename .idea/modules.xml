@@ -7,8 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/Bandurin2.iml" filepath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/Bandurin2.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/HW1/HW1.iml" filepath="$PROJECT_DIR$/java/HW1/HW1.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/HW2/HW2.iml" filepath="$PROJECT_DIR$/java/HW2/HW2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java/HW2/HW2.iml" filepath="$PROJECT_DIR$/java/HW2/HW2.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/HW3/HW3.iml" filepath="$PROJECT_DIR$/java/HW3/HW3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/HW3-2013/HW3-2013.iml" filepath="$PROJECT_DIR$/java/HW3-2013/HW3-2013.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/HW4/HW4.iml" filepath="$PROJECT_DIR$/java/HW4/HW4.iml" />
     </modules>
   </component>
 </project>

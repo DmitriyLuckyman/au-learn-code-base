@@ -5,7 +5,7 @@ import java.io.IOException;
 
 /**
  * Abstract implementation of FSWalkerEventsInterface with all dummy methods
- * Use this abstract class if you didn;t want to override all methods in FSWalkerEvents interface
+ * Use this abstract class if you didn't want to override all methods in FSWalkerEvents interface
  * User: dbandurin
  * Date: 03.03.13
  */
