@@ -29,25 +29,16 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="">
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\CompressOperation.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\CompressorWalkerEventsHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\DecompressOperation.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\FSWalker.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\FSWalkerEvents.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\FSWalkerEventsAbstract.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\FileComparator.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\Main.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\Question.java" afterPath="" />
-      <change type="DELETED" beforePath="P:\Tutorial\au-learn-code-base\java\HW3-2013\src\ZipOperation.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+    <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="changes after review">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/HW3-2013.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW4/HW4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW1/META-INF/MANIFEST.MF" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="au-code-base.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363631104439" ignored="false" />
-    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363122957850" ignored="false" />
+    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637672784" ignored="false" />
+    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637386760" ignored="false" />
     <file path="/FSWalker.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316860691" ignored="false" />
     <file path="/TreePrinter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316938730" ignored="false" />
     <file path="/FSWalkerEvents.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362315362768" ignored="false" />
@@ -56,7 +47,7 @@
     <file path="$PROJECT_DIR$/untitled1/HW3-2013.iml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362323958433" ignored="false" />
     <file path="/Compresser.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362339270035" ignored="false" />
     <file path="/Compressor.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362555823779" ignored="false" />
-    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637278628" ignored="false" />
+    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637799481" ignored="false" />
     <file path="/FileMessageWriter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362398596784" ignored="false" />
     <file path="P:/CCBXAI/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362777732289" ignored="false" />
     <file path="/Mode.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362513823259" ignored="false" />
@@ -169,37 +160,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataInputStream.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="DataInputStream.java" pinned="false" current="true" current-in-tab="true">
         <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="341" column="44" selection-start="13048" selection-end="13048" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompressOperation.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/CompressOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="36" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CompressorWalkerEventsHandler.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/CompressorWalkerEventsHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="62" selection-start="2433" selection-end="2483" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecompressOperation.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/DecompressOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="51" column="68" selection-start="1791" selection-end="1791" vertical-scroll-proportion="0.5821206">
+            <state line="341" column="44" selection-start="13048" selection-end="13048" vertical-scroll-proportion="0.034246575">
               <folding />
             </state>
           </provider>
@@ -258,9 +222,11 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
     <option name="myDateState">
       <MyDateState />
     </option>
@@ -330,7 +296,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages />
+      <hideEmptyPackages ProjectPane="false" />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -372,7 +338,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW2" />
+              <option name="myItemId" value="HW4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spbau" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bandurin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task4" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="au-code-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HW3-2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="au-code-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HW3-2013" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spbau" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bandurin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -383,28 +409,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HW2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HW2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,7 +422,7 @@
     <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="application.passwordSafe" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/java/HW4" />
@@ -439,6 +443,9 @@
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="ru.spbau.bandurin.task2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.spbau.bandurin.task3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="P:\Tutorial\au-learn-code-base\java\HW3-2013" />
@@ -638,14 +645,18 @@
       <created>1363631126816</created>
       <updated>1363631126816</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changes after review">
+      <created>1363637303520</created>
+      <updated>1363637303520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1598" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.63216144" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -654,7 +665,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39828694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41914192" sideWeight="0.49804688" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.36328125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -664,7 +675,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31315103" sideWeight="0.5808581" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31315103" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46319366" sideWeight="0.71940106" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3294271" sideWeight="0.5687569" order="3" side_tool="false" content_ui="tabs" x="515" y="518" width="809" height="423" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -835,13 +846,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/CompressOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="36" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="398" column="0" selection-start="13150" selection-end="13150" vertical-scroll-proportion="0.0">
@@ -858,7 +862,7 @@
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="341" column="44" selection-start="13048" selection-end="13048" vertical-scroll-proportion="0.0">
+        <state line="341" column="44" selection-start="13048" selection-end="13048" vertical-scroll-proportion="0.034246575">
           <folding />
         </state>
       </provider>
@@ -866,20 +870,6 @@
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/zip/InflaterInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="177" column="0" selection-start="5159" selection-end="5329" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/CompressorWalkerEventsHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="62" selection-start="2433" selection-end="2483" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/DecompressOperation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="68" selection-start="1791" selection-end="1791" vertical-scroll-proportion="0.5821206">
           <folding />
         </state>
       </provider>
