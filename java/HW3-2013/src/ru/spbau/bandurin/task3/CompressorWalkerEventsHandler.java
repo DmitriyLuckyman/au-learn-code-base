@@ -29,7 +29,7 @@ public class CompressorWalkerEventsHandler extends FSWalkerEventsAbstract {
      */
     @Override
     public void startTraverse(final File rootFile) throws IOException {
-        File parentFile = rootFile.getParentFile();
+        File parentFile = rootFile.getAbsoluteFile().getParentFile();
         this.absolutePrefix = parentFile != null ? parentFile.getAbsolutePath() : "";
     }
 

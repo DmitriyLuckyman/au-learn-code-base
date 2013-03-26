@@ -2,11 +2,9 @@
   <artifact type="jar" name="Task3">
     <output-path>$PROJECT_DIR$/out/artifacts/Task3</output-path>
     <root id="archive" name="Task3.jar">
-      <element id="directory" name="ru.spbau.bandurin.task3">
-        <element id="dir-copy" path="$PROJECT_DIR$/java/HW3-2013/src" />
-      </element>
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/java/HW3-2013/META-INF/MANIFEST.MF" />
+        <element id="dir-copy" path="$PROJECT_DIR$/java/HW3-2013/src" />
       </element>
     </root>
   </artifact>
