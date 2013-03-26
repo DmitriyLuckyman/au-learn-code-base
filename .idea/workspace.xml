@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Task4" />
+      <artifact name="Task5" />
     </artifacts-to-build>
   </component>
   <component name="BuildServerSettings">
@@ -29,23 +29,36 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="changes after review">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/CompressOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/CompressorWalkerEventsHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/DecompressOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FSWalker.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FSWalkerEvents.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FSWalkerEventsAbstract.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/FileComparator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/Question.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/src/ru/spbau/bandurin/task3/ZipOperation.java" />
+    <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Comparator.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/ComparatorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/FuncLibSuite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function1Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function2Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/HighOrderFunction.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/HighOrderFunctionTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Task5.xml" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\CalculateSummaryHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\ElementHandlerChainWrapper.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\ExtendedMain.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\FSStructureElementHandler.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\FileComparator.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\FileSystemWalker.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\Main.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW5\src\ru\spbau\bandurin\task5\TreePrinter.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW5/HW5.iml" afterPath="$PROJECT_DIR$/java/HW5/HW5.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/ant.xml" afterPath="$PROJECT_DIR$/.idea/ant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="au-code-base.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637868233" ignored="false" />
-    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363637386760" ignored="false" />
+    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364309218162" ignored="false" />
+    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364309218162" ignored="false" />
     <file path="/FSWalker.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316860691" ignored="false" />
     <file path="/TreePrinter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316938730" ignored="false" />
     <file path="/FSWalkerEvents.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362315362768" ignored="false" />
@@ -54,7 +67,7 @@
     <file path="$PROJECT_DIR$/untitled1/HW3-2013.iml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362323958433" ignored="false" />
     <file path="/Compresser.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362339270035" ignored="false" />
     <file path="/Compressor.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362555823779" ignored="false" />
-    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363638138978" ignored="false" />
+    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364309895541" ignored="false" />
     <file path="/FileMessageWriter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362398596784" ignored="false" />
     <file path="P:/CCBXAI/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362777732289" ignored="false" />
     <file path="/Mode.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362513823259" ignored="false" />
@@ -77,7 +90,7 @@
     <file path="P:/SigmaCCBWeb/web/css/agreement.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362981839632" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/ccb.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363160504862" ignored="false" />
     <file path="/ccb.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362982173965" ignored="false" />
-    <file path="/a.dummy" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363092806483" ignored="false" />
+    <file path="/a.dummy" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363726281106" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/EditorPasteCopyGrid.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362982752043" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/progress.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362988763158" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/moduleChoose.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362983440944" ignored="false" />
@@ -86,7 +99,7 @@
     <file path="/login.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362983490586" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/colorpicker.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362983645793" ignored="false" />
     <file path="/colorpicker.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362983533188" ignored="false" />
-    <file path="P:/SigmaCCBWeb/web/WEB-INF/SigmaCCBWeb.jsb2" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363160504862" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/WEB-INF/SigmaCCBWeb.jsb2" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199364219" ignored="false" />
     <file path="/progress.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362988747799" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/commands/common/CharacteristicCommands.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363013217893" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/common/components/comboboxes.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363100852897" ignored="false" />
@@ -99,6 +112,354 @@
     <file path="P:/SigmaCCBWeb/src/java/ru/sigma/util/ResourceIncludeHelper.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363160504862" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/WEB-INF/pages/css_include.jsp" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363160504862" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/common/grid/plugin/CopyRowsFromGrid.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363171113521" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/CampaignPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364295707356" ignored="false" />
+    <file path="/CampaignPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199081837" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/CampaignQuestionsPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363786559761" ignored="false" />
+    <file path="/CampaignQuestionsPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363786524794" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/commands/agreement/ReadMarketingCampaign.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363763512320" ignored="false" />
+    <file path="/ReadMarketingCampaign.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363705507896" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmQuestionListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/unusedwsdl.tmp" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/conf/Services.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363702476228" ignored="false" />
+    <file path="/Services.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363693499751" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetversion/CmGetVersionHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetversion/CmGetVersionDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetnextcalculationportionforindustrialcustomers/CmGetNextCalculationPortionForIndustrialCustomersHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363693531663" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetnextcalculationportionforindustrialcustomers/CmGetNextCalculationPortionForIndustrialCustomersDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363693531663" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/ru/sigma/ccb/app/resources/xai/Services.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetnextcalculationportionforindustrialcustomers/CmCalculationPortionsRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363693531663" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/EOEnrlViewPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363696140265" ignored="false" />
+    <file path="/EOEnrlViewPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363698576416" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/common/components/report/dynamicform/DynamicReportForm.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363698829519" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/reestr/connectionPoint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363780860846" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/reestr/connectionPointList.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363695195759" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/reestr/ConnectionPointGrid.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363695363735" ignored="false" />
+    <file path="/ExtJS3Panel.txt.ft" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363696168118" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/premise/PremiseMain.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363782980539" ignored="false" />
+    <file path="/PremiseMain.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363782979583" ignored="false" />
+    <file path="/SigmaCCBWeb.jsb2" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363782414084" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/EnrlViewPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363698759129" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/common/components/report/dynamicform/DynamicReportGrid.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363762589937" ignored="false" />
+    <file path="/DynamicReportGrid.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363698957729" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/resources/xai/dao/servicepackage/MarketingCampaignDAOImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775608062" ignored="false" />
+    <file path="/MarketingCampaignDAOImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775569978" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/resources/xai/dao/servicepackage/MarketingCampaignDAO.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775482217" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/agreement/MarketingCampaignAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363705412799" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/beans/MarketingCampaign/MarketingCampaign.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363774540350" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/beans/MarketingCampaign/MarketingCampaignQuestion.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363787418902" ignored="false" />
+    <file path="/MarketingCampaignAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704894463" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountnumbergenerator/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculations/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountnumbergenerator/CmAccountNumberGenerator_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountnumbergenerator/CmAccountNumberGeneratorHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountnumbergenerator/CmAccountNumberGeneratorDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculations/CmBillCalculations_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculations/CmBillCalculationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculations/CmBillCalculationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikmaintenance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikmaintenance/CmIKMaintenanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoindications/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoindications/CmBillCalculationEOIndicationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountingperiodcalculationportions/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkages/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountingperiodcalculationportions/CmAccountingPeriodCalculationPortions_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementsforlimits/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountingperiodcalculationportions/CmAccountingPeriodCalculationPortionsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementsforlimits/CmAdditionalAgreementsForLimits_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountingperiodcalculationportions/CmAccountingPeriodCalculationPortionsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkages/CmBillCalculationEOAccountLinkages_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkages/CmBillCalculationEOAccountLinkagesHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementsforlimits/CmAdditionalAgreementsForLimitsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmQuestionListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkages/CmBillCalculationEOAccountLinkagesDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementsforlimits/CmAdditionalAgreementsForLimitsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmQuestionListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmQuestionList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaignsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaigns.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaignList_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmQuestionList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmCampaignMaintenanceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaignListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaignListDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkageinfo/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmCampaignMaintenanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkageinfo/CmBillCalculationEOAccountLinkageInfo_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkageinfo/CmBillCalculationEOAccountLinkageInfoHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoaccountlinkageinfo/CmBillCalculationEOAccountLinkageInfoDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementforlimitslimits/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementforlimitslimits/CmAdditionalAgreementForLimitsLimits_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegments/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementforlimitslimits/CmAdditionalAgreementForLimitsLimitsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmadditionalagreementforlimitslimits/CmAdditionalAgreementForLimitsLimitsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegments/CmBillCalculationBillSegments_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegments/CmBillCalculationBillSegmentsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegments/CmBillCalculationBillSegmentsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmmeterregistrationservice/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmmeterregistrationservice/CmMeterRegistrationService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmmeterregistrationservice/CmMeterRegistrationServiceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountreissues/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmmeterregistrationservice/CmMeterRegistrationServiceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountreissues/CmAccountReissues_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegmentcalculations/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountreissues/CmAccountReissuesDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountbillstatuscharpage2/CmAccountBillStatusCharPage2_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountbillstatuscharpage2/CmAccountBillStatusCharPage2Header.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountbillstatuscharpage2/CmAccountBillStatusCharPage2Details.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegmentcalculations/CmBillCalculationBillSegmentCalculations_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegmentcalculations/CmBillCalculationBillSegmentCalculationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegmentcalculations/CmBillCalculationBillSegmentCalculationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsaspregistrationservice/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsaspregistrationservice/CmSASPRegistrationService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsaspregistrationservice/CmSASPRegistrationServiceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsaspregistrationservice/CmSASPRegistrationServiceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillactionshelper/CmBillActionsHelper_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremisesearchlist/CmChildPremiseSearchList_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkfinancialdocoperations/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftmaintance/CmDraftMaintance_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremisetree/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkfinancialdocoperations/CmBulkFinancialDocOperationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailssourcelistfortransfer/CmDraftDetailsSourceListForTransferDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkfinancialdocoperations/CmBulkFinancialDocOperationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremisetree/CmAccountPremiseTree_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailcalculations/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremisetree/CmAccountPremiseTreeHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremisetree/CmAccountPremiseTreeDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremiseregistrationservice/CmChildPremiseRegistrationService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkbilloperations/CmBulkBillOperationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkbilloperations/CmBulkBillOperationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremisesearchservice/CmAccountPremiseSearchService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillsegmentdetails/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremiseextrafee/CmAccountPremiseExtraFee_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillsegmentdetails/CmBillSegmentDetailsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillsegmentdetails/CmBillSegmentDetailsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmSAPackageMaintanceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmSAPackageMaintanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmpremisetreeregisterhistory/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmpremisetreeregisterhistory/CmPremiseTreeRegisterHistory_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmQuestionListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmQuestionList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmpremisetreeregisterhistory/CmPremiseTreeRegisterHistoryHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmMessageListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmpremisetreeregisterhistory/CmPremiseTreeRegisterHistoryDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmMessageListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmMessageList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailssourcelistfortransfer/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillsegmentactionshelper/CmBillSegmentActionsHelper_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaignsRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikratelist/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailssourcelistfortransfer/CmDraftDetailsSourceListForTransfer_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailssourcelistfortransfer/CmDraftDetailsSourceListForTransferHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkbilloperations/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikratelist/CmIKRateListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikratelist/CmIKRateListDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcyclemaintance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcyclemaintance/CmBillCycleMaintanceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcyclemaintance/CmBillCycleMaintanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoindications/CmBillCalculationEOIndicationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikprocentconsumptionsmaint/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikprocentconsumptionsmaint/CmIKProcentConsumptionsMaintHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikprocentconsumptionsmaint/CmIKProcentConsumptionsMaintDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsubabonents/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsubabonents/CmBillCalculationSubabonentsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsubabonents/CmBillCalculationSubabonentsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountreissues/CmAccountReissuesHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailcalculations/CmDraftDetailCalculations_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailcalculations/CmDraftDetailCalculationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftdetailcalculations/CmDraftDetailCalculationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmservicepointmeterhistoryregistrationservice/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmservicepointmeterhistoryregistrationservice/CmServicePointMeterHistoryRegistrationService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmservicepointmeterhistoryregistrationservice/CmServicePointMeterHistoryRegistrationServiceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmservicepointmeterhistoryregistrationservice/CmServicePointMeterHistoryRegistrationServiceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsmeters/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsmeters/CmBillCalculationsMeters_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountbillstatuscharpage2/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsmeters/CmBillCalculationsMetersHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsmeters/CmBillCalculationsMetersDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftcalculations/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftcalculations/CmDraftCalculations_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikmatchedconsumptiondebetdistributionsmaintance/CmIKMatchedConsumptionDebetDistributionsMaintance_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftcalculations/CmDraftCalculationsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsiks/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/allcharacteristicvalues/Allcharacteristicvalues_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsiks/CmBillCalculationsIKs_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsiks/CmBillCalculationsIKsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsiks/CmBillCalculationsIKsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmikmatchedconsumptioncreditdistributionsmaintance/CmIKMatchedConsumptionCreditDistributionsMaintance_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="/MarketingCampaignDAO.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764490836" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/Adapter3.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmReportList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmReportPropertiesListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/Adapter4.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmQuestionListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmReportPropertiesList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/Adapter5.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmenergysuppliedpremiseregistrationservice/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmQuestionListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363786290815" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CDxPortType.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmCampaignMaintenanceService.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmenergysuppliedpremiseregistrationservice/CmEnergysuppliedPremiseRegistrationServiceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/package-info.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmenergysuppliedpremiseregistrationservice/CmEnergysuppliedPremiseRegistrationServiceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001325" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmCampaignMaintenance_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmCampaignMaintenance.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcyclemaintance/CmBillCycleMaintance_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/Adapter1.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmReportListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/Adapter2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmReportListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignmaintenance/CmReportPropertiesListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationsubabonents/CmBillCalculationSubabonents_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/billcancelreasonservice/BillCancelReasonService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmelectricitytransitmaintenance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmelectricitytransitmaintenance/CmElectricityTransitMaintenanceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmelectricitytransitmaintenance/CmElectricityTransitMaintenanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftstatestatusrequiredcharacteristics/CmDraftStateStatusRequiredCharacteristicsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/batchjobsubmission/BatchJobSubmission_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftstatestatusrequiredcharacteristics/CmDraftStateStatusRequiredCharacteristicsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetversion/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/allcharacteristicvalues/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetversion/CmGetVersion_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftstatemaintance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftstatestatusrequiredcharacteristics/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftstatemaintance/CmDraftStateMaintanceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftstatemaintance/CmDraftStateMaintanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/allcharacteristicvalues/AllcharacteristicvaluesHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/allcharacteristicvalues/AllcharacteristicvaluesDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremisesearchlist/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftsourcelistfortransfer/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/algorithmtypesearch/AlgorithmTypeSearch_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremisesearchlist/CmChildPremiseSearchListDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdevicemfgmeterlistsrv/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftsourcelistfortransfer/CmDraftSourceListForTransferHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftsourcelistfortransfer/CmDraftSourceListForTransferDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001326" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremiseregistrationservice/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationeoindications/CmBillCalculationEOIndications_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremiseregistrationservice/CmChildPremiseRegistrationServiceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/Services.tmp" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremiseregistrationservice/CmChildPremiseRegistrationServiceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/algorithmmainservicesearch/AlgorithmMainServiceSearch_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdestionationbanksearchlist/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdestionationbanksearchlist/CmDestionationBankSearchListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdestionationbanksearchlist/CmDestionationBankSearchListDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmchildpremisesearchlist/CmChildPremiseSearchListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftmaintance/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmfinancialhistoryremovemaint/CmFinancialHistoryRemoveMaintHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/accountsforapersonlist/AccountsforaPersonList_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftmaintance/CmDraftMaintanceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftmaintance/CmDraftMaintanceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcalculationportionreport/CmCalculationPortionReportHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdepartments/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/accountrelationshipsearch/AccountRelationshipSearch_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdepartments/CmDepartmentsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdepartments/CmDepartmentsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/accessgroupsearch/AccessGroupSearch_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmrecalceoconsumption/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmrecalceoconsumption/CmRecalcEOConsumption_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmrecalceoconsumption/CmRecalcEOConsumptionHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmrecalceoconsumption/CmRecalcEOConsumptionDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdepartmentestimators/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdepartmentestimators/CmDepartmentEstimatorsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdepartmentestimators/CmDepartmentEstimatorsDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcharacteristiceditorpageservice/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcharacteristiceditorpageservice/CmCharacteristicEditorPageService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcharacteristiceditorpageservice/CmCharacteristicEditorPageServiceHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcharacteristiceditorpageservice/CmCharacteristicEditorPageServiceDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmdraftcalculations/CmDraftCalculationsHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountgrouplistservice/CmAccountGroupListService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountdocumentlistservice/CmAccountDocumentListService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/package-info.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CmCampaignList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/CDxPortType.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/Adapter5.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/Adapter4.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/Adapter3.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcampaignlist/Adapter2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmSAPackageMaintance.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/clearuseonbillonserviceagreement/ClearUseOnBillOnServiceAgreement_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/package-info.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmSAPackageMaintance_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CmSAPackageMaintanceService.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcalculationportionreport/ObjectFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcalculationportionreport/CmCalculationPortionReport_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmcalculationportionreport/CmCalculationPortionReportDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/CDxPortType.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/Adapter5.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/Adapter4.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/Adapter3.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/Adapter2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmsapackagemaintance/Adapter1.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/characteristictypesearchservice/CharacteristicTypeSearchService_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkfinancialdocoperations/CmBulkFinancialDocOperations_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbulkbilloperations/CmBulkBillOperations_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillsegmentdetails/CmBillSegmentDetails_Service.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704001328" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/agreement/MarketingCampaignChange.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775460037" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/migration/app/task/energyobject/EnergyObjectMarketingCampaignTask.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775644771" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/agreement/EligibleCampaignListAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363704559796" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/common/grid/plugin/ToolbarButtonPluginConfigPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363763087638" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/agreement/MarketingEnrlAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363705708985" ignored="false" />
+    <file path="/MarketingEnrlAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363705708985" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/commands/agreement/ReadCampaignOrder.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363705914881" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/agreement/CampaignOrderAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363765512059" ignored="false" />
+    <file path="/ReadCampaignOrder.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363705913648" ignored="false" />
+    <file path="/Function.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364208014731" ignored="false" />
+    <file path="/Function1.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364292244503" ignored="false" />
+    <file path="/*.regexp" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364290070649" ignored="false" />
+    <file path="/MarketingCampaign.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363774533070" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/beans/report/ReportPropertyBean.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363728199937" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/AddCampaignQuestionsPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363776043307" ignored="false" />
+    <file path="/AddCampaignQuestionsPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363774923037" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/common/components/buttons.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363733876828" ignored="false" />
+    <file path="/buttons.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363732258878" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/admin/AdminPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363732326983" ignored="false" />
+    <file path="/AdminPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363731457934" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/common/grid/plugin/GridToolbarButtonPlugin.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363784468423" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/resources/xai/dao/servicepackage/SA_PACKAGE_MAINTANCE_ACTION_CODE.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764007524" ignored="false" />
+    <file path="/SA_PACKAGE_MAINTANCE_ACTION_CODE.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764007524" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmeligiblecampaignlist/CmCampaigns.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmeligiblecampaignlist/CmEligibleCampaignListDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmeligiblecampaignlist/CmEligibleCampaignListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/WEB-INF/wsdl/cmSAPackageMaintance.wsdl" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmeligiblecampaignlist/CmCampaignsRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363764654882" ignored="false" />
+    <file path="/CampaignOrderAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363765500019" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/commands/agreement/CloseEnrlOrderCommand.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363765474627" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/commands/agreement/DeleteEnrlOrderCommand.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363765587082" ignored="false" />
+    <file path="/CloseEnrlOrderCommand.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363765443066" ignored="false" />
+    <file path="/DeleteEnrlOrderCommand.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363765544347" ignored="false" />
+    <file path="/MarketingCampaignQuestion.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363786471498" ignored="false" />
+    <file path="/MarketingCampaignChange.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775448859" ignored="false" />
+    <file path="/EnergyObjectMarketingCampaignTask.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363775633405" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/dict/subabonent/SubabonentDict.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363779007466" ignored="false" />
+    <file path="/connectionPoint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363780860414" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/FinisgOrderEnrlPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363782243462" ignored="false" />
+    <file path="/FinisgOrderEnrlPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363782830104" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/FinishOrderEnrlPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363782831992" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/conf/xai/CmCampaignMaintenance.wsdl" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363786248129" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/conf/xai/cmSAPackageMaintance.wsdl" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363786248129" ignored="false" />
+    <file path="/CompositeFunction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364197847375" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/login.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199323146" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/LoginPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199403309" ignored="false" />
+    <file path="/LoginPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199401336" ignored="false" />
+    <file path="/Function2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364292605296" ignored="false" />
+    <file path="/Predicate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364293504720" ignored="false" />
+    <file path="/PredicateTest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364302421836" ignored="false" />
+    <file path="P:/SigmaCCBWebTest/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364250464623" ignored="false" />
+    <file path="/HighOrderFunction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364309246138" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/core/configuration/SystemProperties.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364296215921" ignored="false" />
+    <file path="/SystemProperties.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364286497562" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/widgets/LinkCreator.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364295656583" ignored="false" />
+    <file path="/LinkCreator.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364286655834" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/MenuEntry.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364295646897" ignored="false" />
+    <file path="/MenuEntry.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364286702086" ignored="false" />
+    <file path="/Comparator.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364291913820" ignored="false" />
+    <file path="/ComparatorTest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364294910164" ignored="false" />
+    <file path="/FuncLibSuite.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364301874539" ignored="false" />
+    <file path="/HighOrderFunctionTest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364309198343" ignored="false" />
+    <file path="/Function1Test.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364303927789" ignored="false" />
+    <file path="/Function2Test.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364304417377" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +467,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/au-code-base$HighOrderFunctionTest_testTake.coverage" NAME="HighOrderFunctionTest.testTake Coverage Results" MODIFIED="1364307275948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ru.spbau.bandurin.task5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/au-code-base$FuncLibSuite.coverage" NAME="FuncLibSuite Coverage Results" MODIFIED="1364309226339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ru.spbau.bandurin.task5.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/au-code-base$HighOrderFunctionTest_testMap.coverage" NAME="HighOrderFunctionTest.testMap Coverage Results" MODIFIED="1364301891492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="emma" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>ru.spbau.bandurin.task5.*</FILTER>
+    </SUITE>
+  </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -121,6 +493,7 @@
         <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
         <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
@@ -137,6 +510,7 @@
         <option name="ENABLED" value="false" />
         <option name="LOG_ENABLED" value="false" />
         <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
         <option name="SUSPEND_POLICY" value="SuspendAll" />
         <option name="SUSPEND" value="true" />
         <option name="COUNT_FILTER_ENABLED" value="false" />
@@ -158,64 +532,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Main.java">
+      <file leaf-file-name="HighOrderFunction.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/HighOrderFunction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="33" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
+            <state line="89" column="9" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuncLibSuite.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/FuncLibSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Function1.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="52" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataInputStream.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
+      <file leaf-file-name="Function2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="364" column="47" selection-start="13928" selection-end="13928" vertical-scroll-proportion="0.82191783">
+            <state line="7" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataInput.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInput.java">
+      <file leaf-file-name="Predicate.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="398" column="0" selection-start="13150" selection-end="13150" vertical-scroll-proportion="0.0">
+            <state line="37" column="79" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-1.1932669">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InflaterInputStream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/zip/InflaterInputStream.java">
+      <file leaf-file-name="Function1Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function1Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="177" column="0" selection-start="5159" selection-end="5329" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="10" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#285#440#0" expanded="true" />
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#481#637#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FilterInputStream.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/FilterInputStream.java">
+      <file leaf-file-name="PredicateTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="166" column="15" selection-start="5962" selection-end="5962" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="40" column="36" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TimeEvent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/TimeEvent.java">
+      <file leaf-file-name="Function2Test.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="1" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="10" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#293#463#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+                <element signature="e#504#660#0" expanded="true" />
+                <element signature="e#649#650#0" expanded="true" />
+                <element signature="e#936#1104#0" expanded="true" />
+                <element signature="e#1093#1094#0" expanded="true" />
+                <element signature="e#1428#1597#0" expanded="true" />
+                <element signature="e#1586#1587#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomEvent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/RandomEvent.java">
+      <file leaf-file-name="HighOrderFunctionTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/HighOrderFunctionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="16" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
+            <state line="92" column="85" selection-start="4588" selection-end="4588" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#3534#3713#0" expanded="true" />
+                <element signature="e#3702#3703#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Comparator.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Comparator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -241,30 +668,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/FSWalkerEvents.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/FSWalkerEventsAbstract.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/ZipOperation.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/Main.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/CompressorWalkerEventsHandler.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/CompressOperation.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/r.java" />
-        <option value="$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/RandomEvent.java" />
-        <option value="$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/ActionListener.java" />
-        <option value="$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Event.java" />
-        <option value="$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/TimeEvent.java" />
-        <option value="$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Main.java" />
-        <option value="$PROJECT_DIR$/java/HW3-2013/src/DecompressOperation.java" />
         <option value="$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/CompressOperation.java" />
         <option value="$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/CompressorWalkerEventsHandler.java" />
         <option value="$PROJECT_DIR$/java/HW3-2013/src/ru.spbau.bandurin.task3/DecompressOperation.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/CompositeFunction.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Comparator.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function1.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function2.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/FuncLibSuite.java" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function2Test.java" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function1Test.java" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/ComparatorTest.java" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/HighOrderFunctionTest.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/HighOrderFunction.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1598" />
-    <option name="height" value="1066" />
+    <option name="width" value="1198" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -310,7 +737,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -321,6 +747,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -335,7 +762,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW4" />
+              <option name="myItemId" value="HW5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,7 +772,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW4" />
+              <option name="myItemId" value="HW5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ru" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spbau" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bandurin" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task5" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="au-code-base" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HW5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -365,7 +822,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="task4" />
+              <option name="myItemId" value="task5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -375,17 +832,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW3-2013" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HW3-2013" />
+              <option name="myItemId" value="HW5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -393,19 +840,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spbau" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bandurin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task3" />
+              <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -424,27 +859,39 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="OverrideImplement.combined" value="false" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="vcs.Git" />
-    <property name="MemberChooser.sorted" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/HW4" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/HW5/test" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="restartRequiresConfirmation" value="true" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
+    <property name="Downloaded.Files.Path" value="P:\Tutorial\au-learn-code-base\lib" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5" />
+    <property name="options.lastSelected" value="preferences.updates" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
     <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.spbau.bandurin.task5" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="P:\Tutorial\au-learn-code-base\java\HW3-2013\src" />
     </key>
@@ -458,47 +905,148 @@
       <recent name="P:\Tutorial\au-learn-code-base\java\HW3-2013" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Decompress">
-    <configuration default="false" name="Compress" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma">
+  <component name="RunManager" selected="JUnit.FuncLibSuite">
+    <configuration default="false" name="HighOrderFunctionTest.testFilterNullSource" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.spbau.bandurin.task3.*" />
+          <option name="PATTERN" value="ru.spbau.bandurin.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task3.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="compress test.zip P:\Tutorial\au-learn-code-base\java\HW1 P:\Tutorial\au-learn-code-base\java\HW2 P:\Tutorial\au-learn-code-base\java\HW3\src\ru\spbau\bandurin\task3\DivideOperator.java" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="snapshooter" />
+      <module name="HW5" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task5.HighOrderFunctionTest" />
+      <option name="METHOD_NAME" value="testFilterNullSource" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HW3-2013" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma">
+    <configuration default="false" name="HighOrderFunctionTest.testFilterWithNull" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.spbau.bandurin.task4.*" />
+          <option name="PATTERN" value="ru.spbau.bandurin.task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task4.Main" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="snapshooter" />
+      <module name="HW5" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task5.HighOrderFunctionTest" />
+      <option name="METHOD_NAME" value="testFilterWithNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HW4" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
       <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="FuncLibSuite" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.spbau.bandurin.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="snapshooter" />
+      <module name="HW5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task5.FuncLibSuite" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HighOrderFunctionTest.testTake" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.spbau.bandurin.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="snapshooter" />
+      <module name="HW5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task5.HighOrderFunctionTest" />
+      <option name="METHOD_NAME" value="testTake" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Cover" />
+      <ConfigurationWrapper RunnerId="Cover" />
+      <method />
+    </configuration>
+    <configuration default="false" name="HighOrderFunctionTest.testFold" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.spbau.bandurin.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <extension name="snapshooter" />
+      <module name="HW5" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
+      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task5.HighOrderFunctionTest" />
+      <option name="METHOD_NAME" value="testFold" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -540,18 +1088,18 @@
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" runner="emma" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <extension name="snapshooter" />
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="TEST_SEARCH_SCOPE">
@@ -571,7 +1119,7 @@
       <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task3.Main" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="decompress P:\Tutorial\au-learn-code-base\test.zip" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../bnother" />
+      <option name="WORKING_DIRECTORY" value="file://T:/bnother" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -589,16 +1137,21 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Decompress" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Compress" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFilterNullSource" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFilterWithNull" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.FuncLibSuite" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testTake" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFold" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.Compress" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Compress" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.FuncLibSuite" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFold" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testTake" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFilterWithNull" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFilterNullSource" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -607,7 +1160,7 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
     <option name="mySSHConnectionTimeout" value="30000" />
@@ -617,7 +1170,6 @@
     <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
     <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
     <option name="IGNORE_SPACES_IN_MERGE" value="false" />
-    <option name="DETECT_NESTED_COPIES" value="true" />
     <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
     <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
     <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
@@ -631,6 +1183,8 @@
       <changelist id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="" />
       <created>1333047263193</created>
       <updated>1333047263193</updated>
+      <workItem from="1363639673842" duration="1784000" />
+      <workItem from="1363723069755" duration="1832000" />
     </task>
     <task id="LOCAL-00001" summary="changes after review">
       <created>1362321203987</created>
@@ -660,40 +1214,50 @@
       <created>1363637827463</created>
       <updated>1363637827463</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="changes after review">
+      <created>1363638149034</created>
+      <updated>1363638149034</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3616000" />
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1598" height="1066" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1198" height="1040" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.62890625" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.62890625" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39828694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295583" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32893288" sideWeight="0.36653647" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3378531" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18397887" sideWeight="0.5390713" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31315103" sideWeight="0.6710671" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46319366" sideWeight="0.71940106" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39700705" sideWeight="0.5390713" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.46092865" sideWeight="0.71940106" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49263874" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39828694" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3272933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3294271" sideWeight="0.5687569" order="3" side_tool="false" content_ui="tabs" x="515" y="518" width="809" height="423" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -723,7 +1287,7 @@
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
-    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
     <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
@@ -733,6 +1297,10 @@
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
     <option name="LAST_COMMIT_MESSAGE" value="changes after review" />
@@ -746,6 +1314,7 @@
     <option name="ACTIVE_VCS_NAME" />
     <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
     <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
     <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="changes after review" />
@@ -786,101 +1355,156 @@
     </option>
     <option name="view">
       <JiraViewConfigurationBean>
-        <option name="viewFilterId" value="" />
+        <option name="groupBy" value="Priority" />
+        <option name="viewFilterId" value="10744" />
+        <option name="viewFilterType" value="savedFilter" />
+        <option name="viewServerIdd">
+          <ServerIdImpl>
+            <option name="id" value="4099921e-e67c-4ca6-a1d2-667887e957c5" />
+          </ServerIdImpl>
+        </option>
       </JiraViewConfigurationBean>
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/RandomEvent.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/zip/InflaterInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
+        <state line="177" column="11" selection-start="5170" selection-end="5170" vertical-scroll-proportion="0.043290045">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/FSWalkerEventsAbstract.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/Test.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="317" selection-end="317" vertical-scroll-proportion="0.0">
+        <state line="8" column="18" selection-start="307" selection-end="307" vertical-scroll-proportion="0.16317016">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/Main.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/Iterable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="13" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
+        <state line="37" column="17" selection-start="466" selection-end="466" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW2/src/ru/spbau/bandurin/task2/TreePrinter.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/Collection.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
+        <state line="126" column="43" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/ActionListener.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="42" selection-start="219" selection-end="219" vertical-scroll-proportion="0.0">
+        <state line="134" column="15" selection-start="5682" selection-end="5833" vertical-scroll-proportion="0.715311">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Event.java">
+    <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/ComparatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="22" selection-start="241" selection-end="241" vertical-scroll-proportion="0.0">
+        <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#307#323#0" expanded="true" />
+            <element signature="e#351#369#0" expanded="true" />
+            <element signature="e#962#979#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/TimeEvent.java">
+    <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="1" selection-start="1121" selection-end="1121" vertical-scroll-proportion="0.0">
+        <state line="10" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#293#463#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#504#660#0" expanded="true" />
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#936#1104#0" expanded="true" />
+            <element signature="e#1093#1094#0" expanded="true" />
+            <element signature="e#1428#1597#0" expanded="true" />
+            <element signature="e#1586#1587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/Function1Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="13" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#285#440#0" expanded="true" />
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#481#637#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="36" selection-start="1298" selection-end="1298" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/FuncLibSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/HighOrderFunctionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="85" selection-start="4588" selection-end="4588" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3534#3713#0" expanded="true" />
+            <element signature="e#3702#3703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Comparator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/RandomEvent.java">
+    <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="16" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0">
+        <state line="15" column="52" selection-start="386" selection-end="386" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/FilterInputStream.java">
+    <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Function2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="166" column="15" selection-start="5962" selection-end="5962" vertical-scroll-proportion="0.0">
+        <state line="7" column="26" selection-start="166" selection-end="166" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInput.java">
+    <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/HighOrderFunction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="398" column="0" selection-start="13150" selection-end="13150" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="89" column="9" selection-start="3254" selection-end="3254" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Main.java">
+    <entry file="file://$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="1898" selection-end="1898" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/zip/InflaterInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="177" column="0" selection-start="5159" selection-end="5329" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/DataInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="364" column="47" selection-start="13928" selection-end="13928" vertical-scroll-proportion="0.82191783">
+        <state line="37" column="79" selection-start="1096" selection-end="1096" vertical-scroll-proportion="-1.1932669">
           <folding />
         </state>
       </provider>
@@ -892,9 +1516,9 @@
         <settings>
           <artifact-editor>
             <show-content>
+              <type id="library" />
               <type id="jpa-descriptors" />
               <type id="artifact" />
-              <type id="library" />
               <type id="javaee-facet-resources" />
             </show-content>
           </artifact-editor>
@@ -947,12 +1571,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>HW3-2013</last-edited>
+          <last-edited>HW5</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
