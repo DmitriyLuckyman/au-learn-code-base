@@ -4,8 +4,8 @@
     <root id="archive" name="Task3.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/java/HW3-2013/META-INF/MANIFEST.MF" />
-        <element id="dir-copy" path="$PROJECT_DIR$/java/HW3-2013/src" />
       </element>
+      <element id="dir-copy" path="$PROJECT_DIR$/java/HW3-2013/src" />
     </root>
   </artifact>
 </component>
