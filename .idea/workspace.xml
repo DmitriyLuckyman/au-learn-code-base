@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="Task6" />
+      <artifact name="Task7" />
     </artifacts-to-build>
   </component>
   <component name="BuildServerSettings">
@@ -37,46 +37,43 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/BinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ColorRMQ/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/MatrixHash/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Task6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/UnbalancedBinarySearchTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ColorRMQ/in1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/MatrixHash/in1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ColorRMQ/in2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/MatrixHash/in2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/in2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ColorRMQ/in3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/in3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/in4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/in5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/in" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Task3.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Task3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+    <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="Algoritms : ColorRMQ&#10;                  RMQ sharp-min&#10;                   MatrixHash&#10;java         : &#10;                   HW6 BinarySearchTree">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ColorRMQ/ColorRMQ.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/FastMultiply/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/ReflectionDeSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/ReflectionSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/Task7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/FastMultiply/src/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/FastMultiply/in1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/FastMultiply/in2" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW7\src\ru\spbau\bandurin\task7\DistributedIncrementor.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW7\src\ru\spbau\bandurin\task7\InRangeGenerator.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW7\src\ru\spbau\bandurin\task7\IncorrectRangeException.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW7\src\ru\spbau\bandurin\task7\StupidChild.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW7\src\ru\spbau\bandurin\task7\Task.java" afterPath="" />
+      <change type="DELETED" beforePath="T:\au-learn-code-base\java\HW7\src\ru\spbau\bandurin\task7\Worker.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algo/ModSQRT/src/Main.java" afterPath="$PROJECT_DIR$/algo/ModSQRT/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="au-code-base.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365606312949" ignored="false" />
-    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365195342857" ignored="false" />
+    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366210440247" ignored="false" />
+    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366209724437" ignored="false" />
     <file path="/FSWalker.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364335204270" ignored="false" />
     <file path="/TreePrinter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316938730" ignored="false" />
     <file path="/FSWalkerEvents.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362315362768" ignored="false" />
     <file path="/FSWalkerEventsAbstract.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316808940" ignored="false" />
-    <file path="/Main.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365288136314" ignored="false" />
+    <file path="/Main.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366210612430" ignored="false" />
     <file path="$PROJECT_DIR$/untitled1/HW3-2013.iml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362323958433" ignored="false" />
     <file path="/Compresser.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362339270035" ignored="false" />
     <file path="/Compressor.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362555823779" ignored="false" />
-    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365606313082" ignored="false" />
+    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366236393130" ignored="false" />
     <file path="/FileMessageWriter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362398596784" ignored="false" />
     <file path="P:/CCBXAI/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362777732289" ignored="false" />
     <file path="/Mode.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362513823259" ignored="false" />
@@ -114,7 +111,7 @@
     <file path="P:/SigmaCCBWeb/web/js/Sigma/common/components/comboboxes.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363100852897" ignored="false" />
     <file path="/comboboxes.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363100513374" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/process/inventory/InventoryCreatePanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363088258220" ignored="false" />
-    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/resources/xai/dao/process/ProcessDAOImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364816141788" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/resources/xai/dao/process/ProcessDAOImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366099948895" ignored="false" />
     <file path="/ProcessDAOImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363087137888" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/common/fields/AccountEnterField.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364906133891" ignored="false" />
     <file path="/AccountEnterField.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363172272346" ignored="false" />
@@ -453,9 +450,9 @@
     <file path="P:/SigmaCCBWeb/web/js/Sigma/LoginPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199403309" ignored="false" />
     <file path="/LoginPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364199401336" ignored="false" />
     <file path="/Function2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364292605296" ignored="false" />
-    <file path="/Predicate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364293504720" ignored="false" />
-    <file path="/PredicateTest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364302421836" ignored="false" />
-    <file path="P:/SigmaCCBWebTest/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365606313082" ignored="false" />
+    <file path="/Predicate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365965625671" ignored="false" />
+    <file path="/PredicateTest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365965033542" ignored="false" />
+    <file path="P:/SigmaCCBWebTest/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366236393130" ignored="false" />
     <file path="/HighOrderFunction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364309246138" ignored="false" />
     <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/core/configuration/SystemProperties.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364296215921" ignored="false" />
     <file path="/SystemProperties.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364286497562" ignored="false" />
@@ -575,8 +572,8 @@
     <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.1.5.3.xsd" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364493862909" ignored="false" />
     <file path="$APPLICATION_HOME_DIR$/plugins/flex/lib/FlexSupport.jar!/schemas/AIR_Descriptor.1.5.2.xsd" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364493862909" ignored="false" />
     <file path="/BalancedTree.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364851931143" ignored="false" />
-    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/JiraResources.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364561525240" ignored="false" />
-    <file path="/JiraResources.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364560873909" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/JiraResources.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365762840685" ignored="false" />
+    <file path="/JiraResources.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365762829053" ignored="false" />
     <file path="P:/SigmaCCBWeb/resources.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364561566993" ignored="false" />
     <file path="/BinarySearchTree.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365287403894" ignored="false" />
     <file path="/Implemented Method Body.txt.ft" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364594499928" ignored="false" />
@@ -1047,6 +1044,25 @@
     <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/LogInAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365435900223" ignored="false" />
     <file path="/LogInAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365431069657" ignored="false" />
     <file path="/SSOLogin.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365436502820" ignored="false" />
+    <file path="/Student.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365632261749" ignored="false" />
+    <file path="/ReflectionSerializer.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365632024024" ignored="false" />
+    <file path="/ReflectionDeSerializer.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365632197100" ignored="false" />
+    <file path="/test.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365630327686" ignored="false" />
+    <file path="/XAIBaseServiceFastMethodImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365756333453" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/core/xai/XAIBaseServiceFastMethodImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365756337552" ignored="false" />
+    <file path="/XAIBaseServiceImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365756418599" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/core/xai/XAIBaseServiceImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365756422014" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/multithreadprocess/task/massprint/ConcatInOneDocument2Task.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366056091836" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/reestr/servicePoint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365774391950" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/widgets/MenuItemsFactory.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365774393277" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/subject/reestr/person.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365774393277" ignored="false" />
+    <file path="/ConcatInOneDocument2Task.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366056089394" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/agreement/reestr/PremiseGrid.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366099948895" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/beans/process/ProcessEventBean.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366099948896" ignored="false" />
+    <file path="/Test.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366114993403" ignored="false" />
+    <file path="/MainFFT.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366207939985" ignored="false" />
+    <file path="P:/SigmaCCBWebTest/src/ru/sigma/ccb/core/web/form/LoginForm.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366210386407" ignored="false" />
+    <file path="P:/SigmaCCBWebTest/.idea/workspace.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366236466744" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1079,7 +1095,6 @@
   </component>
   <component name="DebuggerManager">
     <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -1095,8 +1110,8 @@
         <option name="CONDITION_ENABLED" value="false" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
-        <option name="CONDITION" value="" />
-        <option name="LOG_MESSAGE" value="" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -1112,10 +1127,27 @@
         <option name="CONDITION_ENABLED" value="false" />
         <option name="CLASS_FILTERS_ENABLED" value="false" />
         <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="&#13;&#13;JAVA" />
+        <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
+      </breakpoint>
+    </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="false">
+      <breakpoint url="file://$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java" line="129" class="FFT" package="">
+        <option name="ENABLED" value="true" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="false" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
         <option name="CONDITION" value="" />
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
-    </breakpoint_any>
+    </line_breakpoints>
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -1125,74 +1157,101 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TimeEvent.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/TimeEvent.java">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algo/FastMultiply/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UnbalancedBinarySearchTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/UnbalancedBinarySearchTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="13" column="27" selection-start="563" selection-end="563" vertical-scroll-proportion="-9.484582">
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#8991#9012#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Main.java">
+        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="26" selection-start="1543" selection-end="1543" vertical-scroll-proportion="0.0">
+            <state line="81" column="5" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AVLBinarySearchTree.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java">
+      <file leaf-file-name="StringBuilder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/StringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+            <state line="71" column="0" selection-start="2405" selection-end="2405" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AVLTreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java">
+      <file leaf-file-name="AbstractStringBuilder.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/AbstractStringBuilder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="51" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+            <state line="202" column="0" selection-start="6370" selection-end="6370" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#56934#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BigInteger.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/math/BigInteger.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1247" column="25" selection-start="43871" selection-end="44772" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearchTree.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/BinarySearchTree.java">
+      <file leaf-file-name="in1" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algo/FastMultiply/in1">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="22" selection-start="183" selection-end="183" vertical-scroll-proportion="0.051282052">
+            <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TreeNode.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeNode.java">
+      <file leaf-file-name="in2" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algo/FastMultiply/in2">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="70" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/Main.java">
+      <file leaf-file-name="String.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+            <state line="2750" column="18" selection-start="109635" selection-end="109635" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Math.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/Math.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="800" column="22" selection-start="32228" selection-end="32228" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainFFT.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="24" column="8" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#5253#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1217,30 +1276,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/algo/ColorRMQ/in1" />
-        <option value="$PROJECT_DIR$/algo/ColorRMQ/in2" />
-        <option value="$PROJECT_DIR$/algo/ColorRMQ/in3" />
-        <option value="$PROJECT_DIR$/algo/ColorRMQ/src/Main.java" />
-        <option value="$PROJECT_DIR$/algo/MatrixHash/in1" />
-        <option value="$PROJECT_DIR$/algo/MatrixHash/in2" />
-        <option value="$PROJECT_DIR$/algo/MatrixHash/src/Main.java" />
-        <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/Node.java" />
-        <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/AbstractNode.java" />
-        <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/Main.java" />
-        <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java" />
-        <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/TreeNode.java" />
         <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/HW6/src/ru/spbau/bandurin/task6/UnbalancedBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java" />
+        <option value="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/ReflectionSerializer.java" />
+        <option value="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/Student.java" />
+        <option value="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/Main.java" />
+        <option value="$PROJECT_DIR$/java/HW7/src/ru/spbau/bandurin/task7/ReflectionDeSerializer.java" />
+        <option value="$PROJECT_DIR$/test.properties" />
+        <option value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" />
+        <option value="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" />
+        <option value="$PROJECT_DIR$/algo/FastMultiply/src/Test.java" />
+        <option value="$PROJECT_DIR$/algo/FastMultiply/in1" />
+        <option value="$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java" />
+        <option value="$PROJECT_DIR$/algo/FastMultiply/src/Main.java" />
+        <option value="$PROJECT_DIR$/algo/ModSQRT/src/Main.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1288" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1040" />
+    <option name="width" value="1598" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1286,7 +1345,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1301,7 +1359,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW6" />
+              <option name="myItemId" value="ModSQRT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1311,47 +1369,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="HW6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ru" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spbau" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bandurin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="task6" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ColorRMQ" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ColorRMQ" />
+              <option name="myItemId" value="ModSQRT" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1361,6 +1379,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -1377,15 +1396,15 @@
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algo" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java/HW7/HW7.iml" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="au-code-base" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -1399,21 +1418,21 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5" />
     <property name="options.lastSelected" value="fileTemplates" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ru.spbau.bandurin.task5" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="T:\au-learn-code-base\algo\ColorRMQ" />
@@ -1424,15 +1443,16 @@
       <recent name="ru.spbau.bandurin.task6" />
       <recent name="ru.spbau.bandurin.task2" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="ru.spbau.bandurin.task3" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="T:\au-learn-code-base\algo\FastMultiply" />
       <recent name="T:\au-learn-code-base\algo\RMQ_SHARP_MIN" />
       <recent name="P:\Tutorial\au-learn-code-base\java\HW3-2013" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.spbau.bandurin.task3" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.FastMultiply">
     <configuration default="false" name="CreatetestDataRMQ" type="Application" factoryName="Application" editBeforeRun="true" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
       <option name="MAIN_CLASS_NAME" value="Main2" />
@@ -1444,7 +1464,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MatrixHash" />
+      <module name="ModSQRT" />
       <envs />
       <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Run" />
@@ -1463,7 +1483,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MatrixHash" />
+      <module name="ModSQRT" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1475,33 +1495,44 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="FuncLibSuite" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.spbau.bandurin.task5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="snapshooter" />
-      <module name="MatrixHash" />
+    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
-      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task5.FuncLibSuite" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="ModSQRT" />
       <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Cover" />
-      <ConfigurationWrapper RunnerId="Cover" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MainFFT" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
+      <option name="MAIN_CLASS_NAME" value="MainFFT" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="T:\au-learn-code-base\algo\FastMultiply\in1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ModSQRT" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
     <configuration default="false" name="HighOrderFunctionTest.testFold" type="JUnit" factoryName="JUnit" temporary="true">
@@ -1512,7 +1543,7 @@
         </pattern>
       </extension>
       <extension name="snapshooter" />
-      <module name="MatrixHash" />
+      <module name="ModSQRT" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
       <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task5" />
@@ -1530,34 +1561,6 @@
       <envs />
       <patterns />
       <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Main" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" runner="emma">
-        <pattern>
-          <option name="PATTERN" value="ru.spbau.bandurin.task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task6.Main" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="HW6" />
-      <envs />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="" />
-        <option name="TRANSPORT" value="0" />
-        <option name="LOCAL" value="true" />
-      </RunnerSettings>
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1635,7 +1638,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MatrixHash" />
+      <module name="ModSQRT" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1663,7 +1666,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MatrixHash" />
+      <module name="ModSQRT" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -1680,29 +1683,52 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MatrixHash" />
+      <module name="ModSQRT" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <list size="8">
+    <configuration default="false" name="FastMultiply" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="T:\au-learn-code-base\algo\FastMultiply\in1" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ModSQRT" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Application.Decompress" />
       <item index="1" class="java.lang.String" itemvalue="Application.Compress" />
       <item index="2" class="java.lang.String" itemvalue="Application.MatrixHash" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CreatetestDataRMQ" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Color RMQ" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.FuncLibSuite" />
-      <item index="6" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFold" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FastMultiply" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CreatetestDataRMQ" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Color RMQ" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="7" class="java.lang.String" itemvalue="Application.MainFFT" />
+      <item index="8" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFold" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Color RMQ" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CreatetestDataRMQ" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FuncLibSuite" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.HighOrderFunctionTest.testFold" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.MainFFT" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Test" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Color RMQ" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CreatetestDataRMQ" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1773,47 +1799,51 @@
       <created>1364337033873</created>
       <updated>1364337033873</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Algoritms : ColorRMQ&#10;                  RMQ sharp-min&#10;                   MatrixHash&#10;java         : &#10;                   HW6 BinarySearchTree">
+      <created>1365606421622</created>
+      <updated>1365606421622</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="3616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1288" y="-8" width="1296" height="1040" extended-state="6" />
+    <frame x="-8" y="-8" width="1598" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.62890625" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.49037373" sideWeight="0.6401945" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48954895" sideWeight="0.6401945" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.48584372" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5247525" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.43784377" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.49150622" sideWeight="0.35980552" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34687155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32563257" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.42513022" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33711508" sideWeight="0.50962627" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.47225368" sideWeight="0.71940106" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2109375" sideWeight="0.5280528" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4719472" sideWeight="0.71940106" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3294271" sideWeight="0.5687569" order="3" side_tool="false" content_ui="tabs" x="515" y="518" width="809" height="423" />
+      <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18395463" sideWeight="0.54020387" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Issues - JIRA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5141563" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3278328" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32616082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1859,7 +1889,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix relative path bug" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algoritms : ColorRMQ&#10;                  RMQ sharp-min&#10;                   MatrixHash&#10;java         : &#10;                   HW6 BinarySearchTree" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -1875,6 +1905,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="changes after review" />
     <MESSAGE value="fix relative path bug" />
+    <MESSAGE value="Algoritms : ColorRMQ&#10;                  RMQ sharp-min&#10;                   MatrixHash&#10;java         : &#10;                   HW6 BinarySearchTree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1993,114 +2024,128 @@
     <option name="view">
       <JiraViewConfigurationBean>
         <option name="groupBy" value="Priority" />
-        <option name="viewFilterId" value="10745" />
+        <option name="viewFilterId" value="" />
         <option name="viewFilterType" value="savedFilter" />
-        <option name="viewServerIdd">
-          <ServerIdImpl>
-            <option name="id" value="4099921e-e67c-4ca6-a1d2-667887e957c5" />
-          </ServerIdImpl>
-        </option>
       </JiraViewConfigurationBean>
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/StringTokenizer.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/Character.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="234" column="11" selection-start="7950" selection-end="7950" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="1707" selection-end="1875" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ColorRMQ/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="17" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+        <state line="149" column="28" selection-start="5719" selection-end="5719" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algo/MatrixHash/in1">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="1" selection-start="51" selection-end="51" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/MatrixHash/in2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="1" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="588" column="0" selection-start="24995" selection-end="24995" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/MatrixHash/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="45" selection-start="1123" selection-end="1123" vertical-scroll-proportion="-0.25974026" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="815" column="0" selection-start="29926" selection-end="29926" vertical-scroll-proportion="0.0">
+        <state line="2320" column="40" selection-start="102047" selection-end="102047" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/Main.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/Long.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="26" selection-start="1543" selection-end="1543" vertical-scroll-proportion="0.0">
+        <state line="280" column="16" selection-start="10013" selection-end="10013" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW4/src/ru/spbau/bandurin/task4/TimeEvent.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/math/BigDecimal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="172" selection-end="172" vertical-scroll-proportion="0.0">
+        <state line="1323" column="20" selection-start="54462" selection-end="54462" vertical-scroll-proportion="0.49326146">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/Main.java">
+    <entry file="file://$PROJECT_DIR$/algo/ColorRMQ/in3">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="13" selection-start="68" selection-end="68" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/FastMultiply/in2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/UnbalancedBinarySearchTree.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/io/BufferedReader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.0">
+        <state line="306" column="21" selection-start="10163" selection-end="10172" vertical-scroll-proportion="1.0329897">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeNode.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="70" selection-start="337" selection-end="337" vertical-scroll-proportion="0.0">
+        <state line="800" column="22" selection-start="32228" selection-end="32228" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
+        <state line="2750" column="18" selection-start="109635" selection-end="109635" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/math/BigInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="51" selection-start="240" selection-end="240" vertical-scroll-proportion="0.0">
+        <state line="1247" column="25" selection-start="43871" selection-end="44772" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/BinarySearchTree.java">
+    <entry file="file://$PROJECT_DIR$/algo/FastMultiply/in1">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="183" selection-end="183" vertical-scroll-proportion="0.051282052">
+        <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="8" selection-start="925" selection-end="925" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#5253#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/StringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="0" selection-start="2405" selection-end="2405" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/lang/AbstractStringBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="202" column="0" selection-start="6370" selection-end="6370" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#56934#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="5" selection-start="2248" selection-end="2248" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/FastMultiply/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="27" selection-start="563" selection-end="563" vertical-scroll-proportion="-9.484582">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#8991#9012#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2111,10 +2156,10 @@
         <settings>
           <artifact-editor>
             <show-content>
+              <type id="javaee-facet-resources" />
               <type id="library" />
               <type id="jpa-descriptors" />
               <type id="artifact" />
-              <type id="javaee-facet-resources" />
             </show-content>
           </artifact-editor>
           <last-edited>Task6</last-edited>
@@ -2166,7 +2211,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>HW7</last-edited>
+          <last-edited>ModSQRT</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

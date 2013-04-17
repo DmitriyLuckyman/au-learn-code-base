@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Task7">
+    <output-path>$PROJECT_DIR$/out/artifacts/Task7</output-path>
+    <root id="archive" name="Task7.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/java/HW7/src" />
+    </root>
+  </artifact>
+</component>
