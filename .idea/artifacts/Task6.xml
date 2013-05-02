@@ -2,7 +2,7 @@
   <artifact type="jar" name="Task6">
     <output-path>$PROJECT_DIR$/out/artifacts/Task6</output-path>
     <root id="archive" name="Task6.jar">
-      <element id="dir-copy" path="$PROJECT_DIR$/HW6/src" />
+      <element id="dir-copy" path="$PROJECT_DIR$/java/HW6/src" />
     </root>
   </artifact>
 </component>

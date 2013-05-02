@@ -8,7 +8,7 @@ import java.util.*;
  * @author Dmitriy Bandurin
  *         Date: 30.03.13
  */
-public abstract class BinarySearchTree<E extends Comparable<E>> extends AbstractSet<E> implements NavigableSet<E> {
+public abstract class BinarySearchTree<E extends Comparable<? super E>> extends AbstractSet<E> implements NavigableSet<E> {
     private TreeNode<E> head;
 
     /**
@@ -98,11 +98,7 @@ public abstract class BinarySearchTree<E extends Comparable<E>> extends Abstract
      *         of its elements
      */
     public Comparator<? super E> comparator() {
-        return new Comparator<E>() {
-            public int compare(E o1, E o2) {
-                return o1.compareTo(o2);
-            }
-        };
+        return null;
     }
 
     /**
@@ -112,7 +108,54 @@ public abstract class BinarySearchTree<E extends Comparable<E>> extends Abstract
      */
     @Override
     public Iterator<E> iterator() {
-        return treeIterator();
+        return new Iterator<E>() {
+            private final int versionWhenCreated;
+            private Iterator<E> values;
+            {
+                ArrayList<E> tmp = new ArrayList<E>(size);
+                collectValues(head, tmp);
+                versionWhenCreated = version;
+                values = tmp.iterator();
+            }
+
+            void collectValues(TreeNode<E> node, ArrayList<E> result){
+                if(node != null){
+                    if(node.getLeft() != null){
+                        collectValues(node.getLeft(), result);
+                    }
+                    result.add(node.getValue());
+                    if(node.getRight() != null){
+                        collectValues(node.getRight(), result);
+                    }
+                }
+            }
+
+            /**
+             * {@inheritDoc}
+             * Returns true if the iteration has more elements.
+             * (In other words, returns true if next would return an element rather than throwing an exception.)
+             * @throws ConcurrentModificationException if tree is changed after iterator was created.
+             */
+            public boolean hasNext() {
+                checkModification();
+                return values.hasNext();
+            }
+
+            public E next() {
+                checkModification();
+                return values.next();
+            }
+
+            private void checkModification() {
+                if (version != versionWhenCreated) {
+                    throw new ConcurrentModificationException("Tree is Changed");
+                }
+            }
+
+            public void remove() {
+                throw new UnsupportedOperationException();
+            }
+        };
     }
 
     /**

@@ -5,7 +5,6 @@
  */
 
 import java.io.*;
-import java.util.Arrays;
 
 public class MainFFT  {
 
@@ -17,18 +16,30 @@ public class MainFFT  {
         while (n > 0) {
             String[] s = bufferedReader.readLine().split(" ");
             final int[] multiply = FFT.multiply(toIntArray(s[0].toCharArray()), toIntArray(s[1].toCharArray()));
-            System.out.println("multiply = " + Arrays.toString(multiply));
+            boolean offset = true;
+            for(int i = multiply.length - 1; i >= 0;--i){
+                if(offset && multiply[i] == 0){
+                    continue;
+                }
+                if(offset){
+                    offset = false;
+                }
+                System.out.print(multiply[i]);
+            }
+            if(offset){
+                System.out.println(0);
+            }else{
+                System.out.println();
+            }
             n--;
         }
     }
+
     public static int[] toIntArray(char[] chars) {
-      //  long start = System.currentTimeMillis();
         final int[] ints = new int[chars.length];
         for (int i = 0; i < chars.length; ++i) {
             ints[i] = chars[chars.length - 1 - i] - '0';
         }
-      //  long end = System.currentTimeMillis();
-      //  MyBigInteger.toIntArray += end - start;
         return ints;
     }
 }
@@ -39,18 +50,10 @@ class FFT {
     /**
      * A class for complex numbers
      */
-
-
     private static class Complex {
         // the real and imaginary parts
         private double real;
         private double im;
-
-        // imaginary parts below this value will be ignored,
-        //   so that the complex number will be assumed
-        //   to be real
-        private double TOLERANCE = 0.00001;
-
 
         /**
          * Constructs a complex number given the real
@@ -63,17 +66,6 @@ class FFT {
         public Complex(double real, double im) {
             this.real = real;
             this.im = im;
-        }
-
-
-        /**
-         * Constructs the nth root of 1 with smallest
-         * positive angle to 1 + 0i.
-         */
-
-        public Complex(int n) {
-            real = Math.cos(2 * Math.PI / n);
-            im = Math.sin(2 * Math.PI / n);
         }
 
 
@@ -112,16 +104,16 @@ class FFT {
          * @return the product
          */
 
+        public void multiplySE(Complex c) {
+            double a = real;
+            double b = im;
+            this.real = a * c.real - b * c.im;
+            this.im = a * c.im + b * c.real;
+        }
+
         public Complex multiply(Complex c) {
             return new Complex(real * c.real - im * c.im,
                     real * c.im + im * c.real);
-        }
-
-        /**
-         * @return a string representing the complex number
-         */
-        public String toString() {
-            return String.format("%8.4f  + %8.4fi", real, im);
         }
 
     }  // end of Complex inner class
@@ -137,8 +129,9 @@ class FFT {
 
         fft (fa, false);
         fft (fb, false);
-        for (int i=0; i < n; ++i)
-            fa[i] = fa[i].multiply(fb[i]);
+        for (int i=0; i < n; ++i){
+            fa[i].multiplySE(fb[i]);
+        }
         fft (fa, true);
 
         int[] res = new int[n];
@@ -160,7 +153,7 @@ class FFT {
     }
 
     static void  fft (Complex[] a, boolean invert) {
-        int n =  a.length;
+        int n = a.length;
         if (n == 1)  return;
 
         Complex[] a0 = new Complex[n/2];
@@ -176,13 +169,16 @@ class FFT {
         Complex w = new Complex (1, 0);
         Complex wn = new Complex (Math.cos(ang), Math.sin(ang));
         for (int i=0; i<n/2; ++i) {
-            a[i] = a0[i].add(w.multiply(a1[i]));
-            a[i+n/2] = a0[i].subtract(w.multiply(a1[i]));
+            final Complex multiply = w.multiply(a1[i]);
+            a[i] = a0[i].add(multiply);
+            a[i+n/2] = a0[i].subtract(multiply);
             if (invert){
                 a[i].real /= 2;
+                a[i].im /=2;
                 a[i+n/2].real /= 2;
+                a[i+n/2].im /= 2;
             }
-            w =w.multiply(wn);
+            w.multiplySE(wn);
         }
     }
 }

@@ -5,7 +5,7 @@ package ru.spbau.bandurin.task6;
  * @author Dmitriy Bandurin
  *         Date: 03.04.13
  */
-public class TreeNode<T extends Comparable<T>> {
+public class TreeNode<T extends Comparable<? super T>> {
     private TreeNode<T> parent;
     private TreeNode<T> left;
     private TreeNode<T> right;

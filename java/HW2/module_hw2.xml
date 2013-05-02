@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hw2" default="compile.module.hw2">
+  <dirname property="module.hw2.basedir" file="${ant.file.module_hw2}"/>
+  
+  <property name="module.jdk.home.hw2" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hw2" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hw2" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hw2" value="${compiler.args}"/>
+  
+  <property name="hw2.output.dir" value="${module.hw2.basedir}/../../out/production/HW2"/>
+  <property name="hw2.testoutput.dir" value="${module.hw2.basedir}/../../out/test/HW2"/>
+  
+  <path id="hw2.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hw2.module.production.classpath">
+    <path refid="${module.jdk.classpath.hw2}"/>
+  </path>
+  
+  <path id="hw2.runtime.production.module.classpath">
+    <pathelement location="${hw2.output.dir}"/>
+  </path>
+  
+  <path id="hw2.module.classpath">
+    <path refid="${module.jdk.classpath.hw2}"/>
+    <pathelement location="${hw2.output.dir}"/>
+  </path>
+  
+  <path id="hw2.runtime.module.classpath">
+    <pathelement location="${hw2.testoutput.dir}"/>
+    <pathelement location="${hw2.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.hw2">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hw2">
+    <patternset refid="excluded.from.module.hw2"/>
+  </patternset>
+  
+  <path id="hw2.module.sourcepath">
+    <dirset dir="${module.hw2.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.hw2" depends="compile.module.hw2.production,compile.module.hw2.tests" description="Compile module HW2"/>
+  
+  <target name="compile.module.hw2.production" description="Compile module HW2; production classes">
+    <mkdir dir="${hw2.output.dir}"/>
+    <javac destdir="${hw2.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.hw2}/javac">
+      <compilerarg line="${compiler.args.hw2}"/>
+      <bootclasspath refid="hw2.module.bootclasspath"/>
+      <classpath refid="hw2.module.production.classpath"/>
+      <src refid="hw2.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.hw2"/>
+    </javac>
+    
+    <copy todir="${hw2.output.dir}">
+      <fileset dir="${module.hw2.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.hw2.tests" depends="compile.module.hw2.production" description="compile module HW2; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.hw2" description="cleanup module">
+    <delete dir="${hw2.output.dir}"/>
+    <delete dir="${hw2.testoutput.dir}"/>
+  </target>
+</project>

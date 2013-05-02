@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hw3" default="compile.module.hw3">
+  <dirname property="module.hw3.basedir" file="${ant.file.module_hw3}"/>
+  
+  <property name="module.jdk.home.hw3" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hw3" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hw3" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hw3" value="${compiler.args}"/>
+  
+  <property name="hw3.output.dir" value="${module.hw3.basedir}/../../out/production/HW3"/>
+  <property name="hw3.testoutput.dir" value="${module.hw3.basedir}/../../out/test/HW3"/>
+  
+  <path id="hw3.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hw3.module.production.classpath">
+    <path refid="${module.jdk.classpath.hw3}"/>
+  </path>
+  
+  <path id="hw3.runtime.production.module.classpath">
+    <pathelement location="${hw3.output.dir}"/>
+  </path>
+  
+  <path id="hw3.module.classpath">
+    <path refid="${module.jdk.classpath.hw3}"/>
+    <pathelement location="${hw3.output.dir}"/>
+  </path>
+  
+  <path id="hw3.runtime.module.classpath">
+    <pathelement location="${hw3.testoutput.dir}"/>
+    <pathelement location="${hw3.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.hw3">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hw3">
+    <patternset refid="excluded.from.module.hw3"/>
+  </patternset>
+  
+  <path id="hw3.module.sourcepath">
+    <dirset dir="${module.hw3.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.hw3" depends="compile.module.hw3.production,compile.module.hw3.tests" description="Compile module HW3"/>
+  
+  <target name="compile.module.hw3.production" description="Compile module HW3; production classes">
+    <mkdir dir="${hw3.output.dir}"/>
+    <javac destdir="${hw3.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.hw3}/javac">
+      <compilerarg line="${compiler.args.hw3}"/>
+      <bootclasspath refid="hw3.module.bootclasspath"/>
+      <classpath refid="hw3.module.production.classpath"/>
+      <src refid="hw3.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.hw3"/>
+    </javac>
+    
+    <copy todir="${hw3.output.dir}">
+      <fileset dir="${module.hw3.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.hw3.tests" depends="compile.module.hw3.production" description="compile module HW3; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.hw3" description="cleanup module">
+    <delete dir="${hw3.output.dir}"/>
+    <delete dir="${hw3.testoutput.dir}"/>
+  </target>
+</project>

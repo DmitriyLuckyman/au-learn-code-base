@@ -4,7 +4,7 @@ package ru.spbau.bandurin.task6;
  * @author Dmitriy Bandurin
  *         Date: 30.03.13
  */
-public class AVLBinarySearchTree<E extends Comparable<E>> extends BinarySearchTree<E> {
+public class AVLBinarySearchTree<E extends Comparable<? super E>> extends BinarySearchTree<E> {
 
     /**
      * Template method

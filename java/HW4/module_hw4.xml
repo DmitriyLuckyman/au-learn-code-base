@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_hw4" default="compile.module.hw4">
+  <dirname property="module.hw4.basedir" file="${ant.file.module_hw4}"/>
+  
+  <property name="module.jdk.home.hw4" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.hw4" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.hw4" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.hw4" value="${compiler.args}"/>
+  
+  <property name="hw4.output.dir" value="${module.hw4.basedir}/../../out/production/HW4"/>
+  <property name="hw4.testoutput.dir" value="${module.hw4.basedir}/../../out/test/HW4"/>
+  
+  <path id="hw4.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="hw4.module.production.classpath">
+    <path refid="${module.jdk.classpath.hw4}"/>
+  </path>
+  
+  <path id="hw4.runtime.production.module.classpath">
+    <pathelement location="${hw4.output.dir}"/>
+  </path>
+  
+  <path id="hw4.module.classpath">
+    <path refid="${module.jdk.classpath.hw4}"/>
+    <pathelement location="${hw4.output.dir}"/>
+  </path>
+  
+  <path id="hw4.runtime.module.classpath">
+    <pathelement location="${hw4.testoutput.dir}"/>
+    <pathelement location="${hw4.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.hw4">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.hw4">
+    <patternset refid="excluded.from.module.hw4"/>
+  </patternset>
+  
+  <path id="hw4.module.sourcepath">
+    <dirset dir="${module.hw4.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.hw4" depends="compile.module.hw4.production,compile.module.hw4.tests" description="Compile module HW4"/>
+  
+  <target name="compile.module.hw4.production" description="Compile module HW4; production classes">
+    <mkdir dir="${hw4.output.dir}"/>
+    <javac destdir="${hw4.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.hw4}/javac">
+      <compilerarg line="${compiler.args.hw4}"/>
+      <bootclasspath refid="hw4.module.bootclasspath"/>
+      <classpath refid="hw4.module.production.classpath"/>
+      <src refid="hw4.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.hw4"/>
+    </javac>
+    
+    <copy todir="${hw4.output.dir}">
+      <fileset dir="${module.hw4.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.hw4.tests" depends="compile.module.hw4.production" description="compile module HW4; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.hw4" description="cleanup module">
+    <delete dir="${hw4.output.dir}"/>
+    <delete dir="${hw4.testoutput.dir}"/>
+  </target>
+</project>
