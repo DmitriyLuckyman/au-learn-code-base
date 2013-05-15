@@ -38,67 +38,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74a44697-e37c-4318-9a7d-c50913f27617" name="Default" comment="Algoritms : ColorRMQ&#10;                  RMQ sharp-min&#10;                   MatrixHash&#10;java         : &#10;                   HW6 BinarySearchTree">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/35Answer.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/FastMultiply/FastMultiply.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW10/HW10.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/src/ListOfPrimes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/src/MainClass.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/MatrixHash/MatrixHash.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/ModSQRT.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/src/QuadraticResidue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/RMQ_SHARP_MIN.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW10/META-INF/application.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/atlassian-ide-plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/au-code-base.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/au-code-base.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/in1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/in2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/in2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/in3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/in3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/in4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/ModSQRT/in5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/in6" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW1/module_hw1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW2/module_hw2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3-2013/module_hw3-2013.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW3/module_hw3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW4/module_hw4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW5/module_hw5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/primes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/BinarySearchTree.java" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/BinarySearchTree.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW6/HW6.iml" afterPath="$PROJECT_DIR$/java/HW6/HW6.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/Main.java" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java" afterPath="$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/java/HW10/src/Main.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/SegmentTreeFast.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/UpdateRangeAndMaxRMQ.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algo/ModSQRT/35Answer.txt" afterPath="$PROJECT_DIR$/algo/ModSQRT/35Answer.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main.java" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main2.java" afterPath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" afterPath="$PROJECT_DIR$/java/HW5/src/ru/spbau/bandurin/task5/Predicate.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" afterPath="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5/PredicateTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/Task6.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/Task6.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeNode.java" afterPath="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeNode.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/algo/ModSQRT/src/QuadraticResidue.java" afterPath="$PROJECT_DIR$/algo/ModSQRT/src/QuadraticResidue.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="au-code-base.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536575900" ignored="false" />
-    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367518353971" ignored="false" />
+    <file path="/Dummy.txt" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368641524203" ignored="false" />
+    <file path="/fragment.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368543265103" ignored="false" />
     <file path="/FSWalker.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364335204270" ignored="false" />
     <file path="/TreePrinter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316938730" ignored="false" />
     <file path="/FSWalkerEvents.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362315362768" ignored="false" />
     <file path="/FSWalkerEventsAbstract.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362316808940" ignored="false" />
-    <file path="/Main.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366665353941" ignored="false" />
+    <file path="/Main.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368542978202" ignored="false" />
     <file path="$PROJECT_DIR$/untitled1/HW3-2013.iml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362323958433" ignored="false" />
     <file path="/Compresser.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362339270035" ignored="false" />
     <file path="/Compressor.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362555823779" ignored="false" />
-    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536155327" ignored="false" />
+    <file path="P:/SigmaCCBWeb/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368547147351" ignored="false" />
     <file path="/FileMessageWriter.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362398596784" ignored="false" />
-    <file path="P:/CCBXAI/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536155327" ignored="false" />
+    <file path="P:/CCBXAI/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368547147351" ignored="false" />
     <file path="/Mode.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362513823259" ignored="false" />
     <file path="/Decompressor.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362569977410" ignored="false" />
     <file path="/ZipOperation.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362556662582" ignored="false" />
@@ -119,7 +87,7 @@
     <file path="P:/SigmaCCBWeb/web/css/agreement.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362981839632" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/ccb.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364985660347" ignored="false" />
     <file path="/ccb.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364985516875" ignored="false" />
-    <file path="/a.dummy" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367317939624" ignored="false" />
+    <file path="/a.dummy" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367997990102" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/EditorPasteCopyGrid.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362982752043" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/progress.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362988763158" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/css/moduleChoose.css" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1362983440944" ignored="false" />
@@ -155,7 +123,7 @@
     <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetversion/CmGetVersionDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364816185359" ignored="false" />
     <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetnextcalculationportionforindustrialcustomers/CmGetNextCalculationPortionForIndustrialCustomersHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364816185360" ignored="false" />
     <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetnextcalculationportionforindustrialcustomers/CmGetNextCalculationPortionForIndustrialCustomersDetails.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364816185360" ignored="false" />
-    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/ru/sigma/ccb/app/resources/xai/Services.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1365410293601" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/ru/sigma/ccb/app/resources/xai/Services.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367577354215" ignored="false" />
     <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmgetnextcalculationportionforindustrialcustomers/CmCalculationPortionsRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363693531663" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/MarketingCampaign/EOEnrlViewPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363696140265" ignored="false" />
     <file path="/EOEnrlViewPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1363698576416" ignored="false" />
@@ -1031,7 +999,7 @@
     <file path="/in3" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364887207135" ignored="false" />
     <file path="/in2" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364893275464" ignored="false" />
     <file path="/in5" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364890755987" ignored="false" />
-    <file path="/Main2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364894366813" ignored="false" />
+    <file path="/Main2.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368284010351" ignored="false" />
     <file path="/PriceEditTabPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364985210787" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/rate/price/PriceEditTabPanel.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364985536002" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/rate/price/PriceEditTab.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1364984320438" ignored="false" />
@@ -1102,7 +1070,7 @@
     <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/fieldactivity/CmFieldActivityMeterRegistrationService.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366368997166" ignored="false" />
     <file path="P:/CCBXAI/splapp/xai/schemas/CmCharacteristicTypeRegistrationServiceSchema.xsd" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366368997166" ignored="false" />
     <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/meter/psk/MeterFacade_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366368997166" ignored="false" />
-    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/factory/meter/psk/MeterEntityCreator_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366369115859" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/factory/meter/psk/MeterEntityCreator_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367936468755" ignored="false" />
     <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/migration/app/task/meteringunit/MURateAndMeterHistoryTask.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366487975905" ignored="false" />
     <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/meter/psk/EnergySPFacade_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366655855840" ignored="false" />
     <file path="$USER_HOME$/IdeaProjects/KotlinTest/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367528673742" ignored="false" />
@@ -1125,7 +1093,7 @@
     <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmworkfloweventregistrationservice/Adapter3.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366641869744" ignored="false" />
     <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmworkfloweventregistrationservice/CmDependencyListHeader.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1366641869744" ignored="false" />
     <file path="/ListOfPrimitives.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367195658736" ignored="false" />
-    <file path="/QuadraticResidue.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536420068" ignored="false" />
+    <file path="/QuadraticResidue.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368121770672" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/process/TaskSearch.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367223153219" ignored="false" />
     <file path="/TaskSearch.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367223027573" ignored="false" />
     <file path="P:/SigmaCCBWeb/web/js/Sigma/common/components/components.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367236866652" ignored="false" />
@@ -1140,23 +1108,181 @@
     <file path="/AttachedReportsMenu.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367270673514" ignored="false" />
     <file path="P:/CCBXAI/splapp/xai/schemas/ExtFAPremiseSearch.xsd" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367317942788" ignored="false" />
     <file path="/MainClass.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367512539666" ignored="false" />
-    <file path="/CmEORateList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498718308" ignored="false" />
-    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/rate/CmEORateList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536239790" ignored="false" />
-    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
-    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/eo/accountlinkage/CmEOAccountLinkage.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
-    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmRateDetail.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
-    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmSaTypeCategoryLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
-    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
-    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEORateList_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
+    <file path="/CmEORateList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367937160970" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/rate/CmEORateList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367937211657" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/eo/accountlinkage/CmEOAccountLinkage.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmRateDetail.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmSaTypeCategoryLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEORateList_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
     <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/registration/CmSAPackageMaintance_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367498822215" ignored="false" />
     <file path="/ListOfPrimes.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367506165213" ignored="false" />
-    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/.classpath" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367528673459" ignored="false" />
-    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/src/org/jetbrains/kotlin/wizard/ProjectWizard.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367528673742" ignored="false" />
-    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367528683329" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/.classpath" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391792678" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/src/org/jetbrains/kotlin/wizard/ProjectWizard.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391519380" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368370493073" ignored="false" />
     <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/src/org/jetbrains/kotlin/wizard/NewUnitWizardPage.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367528746754" ignored="false" />
-    <file path="T:/Kotlin/kotlin-eclipse/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536155327" ignored="false" />
-    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/build.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536239790" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368392467331" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/build.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391546959" ignored="false" />
     <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/migration/orm/businessmodel/MarketingCampaign.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367536239790" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/rate/CmIKRateMaintance.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367937624265" ignored="false" />
+    <file path="/CmIKRateMaintance.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367937599015" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/web/form/common/ServiceListAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367578695449" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmbillcalculationbillsegments/CmBillSegmentsRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367577354215" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmeoaccountlinkagefees/CmEoFeesRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367577354215" ignored="false" />
+    <file path="P:/SigmaCCBWeb/build/generated-sources/jax-ws/com/splwg/cmaccountpremiseextrafee/CmListRow.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367577354215" ignored="false" />
+    <file path="/ServiceListAction.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367578628900" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/ik/IKMaint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367827451043" ignored="false" />
+    <file path="/IKMaint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367827451043" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/Sigma/ccb/agreement/premise/servicePoint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367827912294" ignored="false" />
+    <file path="/servicePoint.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367827912294" ignored="false" />
+    <file path="P:/SigmaCCBWeb/web/js/components/ContextMenuItems.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367828047956" ignored="false" />
+    <file path="/ContextMenuItems.js" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367828042145" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/hibernate.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938317217" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/premise/IIKFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367936446803" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/account/CmAccountCalculationGroupCharacteristicSynchronizationAlgComp_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367936452762" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/eo/withoutAccountingConsumption/CmWithoutAccountingConsumptionStatementList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367936457747" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/rate/IEORateFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938469194" ignored="false" />
+    <file path="/IEORateFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367936753911" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/rate/EORateFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938440084" ignored="false" />
+    <file path="/EORateFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367937132691" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/rate/psk/EORateFacade_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938242493" ignored="false" />
+    <file path="/EORateFacade_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367937095425" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/Period.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/sigma/Configuration.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/structure/IAccountFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/rate/IIntervalDataProfileFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/rate/IntervalDataProfileFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/premise/psk/EOFacade_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/rate/psk/IntervalDataProfileFacade_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/factory/meter/MeterEntityFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/billing/billCalculation/factory/CmBillCalculationDTOFactory.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/facade/serviceagreement/ISAFacade.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/admin/multidimensionalBillFactor/CmMultidimensionalBillFactorDimension_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/api/entity/structure/IKRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/admin/multidimensionalBillFactor/CmMultidimensionalBillFactorInstance_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367938097190" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/resources/xai/dao/premise/EOPremiseDAOImpl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367939869472" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/admin/salesPackage/PackageServiceAgreementsToCreateFor442DecreeAlgComp_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367998640834" ignored="false" />
+    <file path="/PackageServiceAgreementsToCreateFor442DecreeAlgComp_Impl.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367998575259" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateGroupCategoryMaintance_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateGroupSearch_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/mr/CobolCopybookCICMILHC.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateSearchService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmUsageHoursNumberRangeCalculationService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_POJO.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEOVoltageLevels_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateGroupCategorySearchService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmIKRateList_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ft/CobolCopybookCICFBLRN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/salesPackage/packageMetaInfo.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/salesPackage/PackageServiceAgreementMessageAlgComp.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmVoltageLevelLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmPriceCategoryLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/salesPackage/PackageServiceAgreementsToCreateFor442DecreeAlgComp_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ct/CobolCopybookCICTKELN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/salesPackage/PackageServiceAgreementsToCreateFor442DecreeAlgComp.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/salesPackage/PackageServiceAgreementMessageAlgComp_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmRateTypeLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/cr/CobolCopybookCICLPCRN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/order/CmOrderExpansion.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmRateDetail_Id.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/campaign/CmCampaignExpansion.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/cm/CobolCopybookCMCAAFZN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/billing/billCalculation/CmBillCalculation.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/serviceAgreement/CmServiceAgreementExpansion_DTO.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmPowerSupplyCompanyLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmMarketMarkupGroupLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505837" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/cm/CobolCopybookCMCCISAA.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolProgrammCIPCMZZX.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolProgramCIPCENON.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolProgramCIPCSAAN_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmAgreementTypeLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmRegionLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/mr/CobolCopybookCICMITMD.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolCopybookCICCSAAN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolCopybookCICCENON.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/api/lookup/CmRateTypeForTransferLookup.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolProgrammCIPCMZZX_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/cm/CobolCopybookCMCCSAAN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/bi/CobolCopybookCICBBILO.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/ci/CobolProgramCIPCSAAN.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_Id.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmIKRateMaintance_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_POJO_IdType.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_POJO_Id.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_IdType.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmUsageHoursNumberRangeRegistrationService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmUsageHoursNumberRange.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateRegistrationService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/caseType/CobolCopybookCMCQCZZX.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmTouGroupList_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_DTO.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateList_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/cobol/py/CobolCopybookCICPEVTA.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateGenerationService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/eo/accountlinkage/CmEOAccountLinkage_Id.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/admin/rate/CmRate_Id.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEoRate_Per.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmEORateMaintance_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmUsageHoursNumberRangeSearchService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/CCBXAI/build/gen/com/splwg/cm/domain/customerinfo/rate/CmRateGroupRegistrationService_Gen.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1367996505838" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/migration/app/task/subabonent/BatchSubAbonentTask.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368202149101" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/migration/app/task/MigrationUtils.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368210606660" ignored="false" />
+    <file path="/MigrationUtils.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368206071790" ignored="false" />
+    <file path="P:/SigmaCCBWeb/src/java/ru/sigma/ccb/app/beans/premise/PremiseRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368206172080" ignored="false" />
+    <file path="/PremiseRate.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368206167650" ignored="false" />
+    <file path="P:/CCBXAI/java/source/cm/com/splwg/cm/domain/customerinfo/rate/CmIKRateList.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368210606661" ignored="false" />
+    <file path="P:/CCBXAI/splapp/applications/XAIApp/WEB-INF/lib/spl-ccb-2.1.0.jar!/com/splwg/ccb/domain/admin/salesPackage/PackageServiceAgreementsToCreateStartMethodAlgorithmSpot.class" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368210606660" ignored="false" />
+    <file path="/in1" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368271194715" ignored="false" />
+    <file path="/in9" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368294213936" ignored="false" />
+    <file path="/SegmentTreeFast.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368314770423" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-bundled-compiler/.classpath" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391802113" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-core/.classpath" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391792678" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-core/META-INF/MANIFEST.MF" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391546959" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-core/src/org/jetbrains/kotlin/model/KotlinProjectSupport.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391521333" ignored="false" />
+    <file path="/KotlinProjectSupport.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368388849711" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-core/src/org/jetbrains/kotlin/model/KotlinNature.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391546959" ignored="false" />
+    <file path="/ProjectWizard.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368382201833" ignored="false" />
+    <file path="/KotlinNature.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368381737259" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-eclipse-ui/META-INF/MANIFEST.MF" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368388779812" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-bundled-compiler/META-INF/MANIFEST.MF" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391546959" ignored="false" />
+    <file path="T:/Kotlin/kotlin-eclipse/kotlin-bundled-compiler/.settings/org.eclipse.jdt.core.prefs" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368391546959" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/res/values/strings.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397193352" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/AndroidManifest.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368518279751" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/atlassian-ide-plugin.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368547147351" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/com/example/WeitherOracle/WeitherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368396151528" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/build.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368396151528" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/res/layout/main.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368399323184" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/WeitherOracle/R.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368396275912" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/WeitherOracle/WeitherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368396275912" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/WeitherOracle/Manifest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368396275912" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/ru/spbau/devdays2013/WeitherOracle/R.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397047015" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeitherOracle/WeitherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397038415" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/ru/spbau/devdays2013/WeitherOracle/Manifest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397047015" ignored="false" />
+    <file path="/WeitherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368399678313" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/project.properties" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368517208088" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeitherOracle/WeatherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397039213" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/ru/spbau/devdays2013/WeatherOracle/R.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397167555" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeatherOracle/WeatherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368399720178" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/ru/spbau/devdays2013/WeatherOracle/Manifest.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397167555" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/gen/ru/spbau/devdays2013/WeatherOracle/BuildConfig.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368518440149" ignored="false" />
+    <file path="/strings.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397193351" ignored="false" />
+    <file path="/WeatherOracleActivity.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368397808458" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeatherOracle/bean/PredictWeatherBean.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368399177218" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/res/layout/CellLayout.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368399806671" ignored="false" />
+    <file path="/CellLayout.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368398506189" ignored="false" />
+    <file path="/PredictWeatherBean.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368399154566" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeatherOracle/bean/WindDirection.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368511841030" ignored="false" />
+    <file path="/WindDirection.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368511820666" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/.idea/workspace.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368543420502" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeatherOracle/crawler/WeatherCrawlerManager.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368541777969" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeatherOracle/crawler/IntellicastCrawler.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368540409827" ignored="false" />
+    <file path="/IntellicastCrawler.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368509524394" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/src/ru/spbau/devdays2013/WeatherOracle/crawler/GisMeteoCrawler.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368512601850" ignored="false" />
+    <file path="/GisMeteoCrawler.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368511882082" ignored="false" />
+    <file path="/WeatherCrawlerManager.java" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368541776401" ignored="false" />
+    <file path="T:/DevDays/WeatherOracle/.idea/misc.xml" changelist="74a44697-e37c-4318-9a7d-c50913f27617" time="1368517206791" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1188,8 +1314,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="false" />
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -1226,6 +1350,8 @@
         <option name="LOG_MESSAGE" value="&#13;&#13;JAVA" />
       </breakpoint>
     </breakpoint_any>
+    <line_breakpoints default_suspend_policy="SuspendAll" default_condition_enabled="false" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -1235,85 +1361,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="QuadraticResidue.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/QuadraticResidue.java">
+      <file leaf-file-name="Main.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="181" column="30" selection-start="26404" selection-end="26404" vertical-scroll-proportion="0.0">
+            <state line="123" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.19266056">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#22978#22984#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Math.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/lang/Math.java">
+      <file leaf-file-name="SegmentTreeFast.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/SegmentTreeFast.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="608" column="23" selection-start="25325" selection-end="25325" vertical-scroll-proportion="0.0">
+            <state line="126" column="65" selection-start="4127" selection-end="4127" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="in1" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in1">
+        <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in1">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
+            <state line="10" column="7" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListOfPrimes.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/ListOfPrimes.java">
+      <file leaf-file-name="Main2.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="66" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainClass.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/MainClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="26" selection-start="838" selection-end="838" vertical-scroll-proportion="0.79037803">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in5" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in5">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="999" column="88" selection-start="21982" selection-end="21982" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in3" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in3">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Arrays.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/Arrays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="907" column="23" selection-start="40798" selection-end="40798" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="in4" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in4">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="0" selection-start="2" selection-end="12" vertical-scroll-proportion="0.0">
+            <state line="10" column="32" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -1339,22 +1419,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/TreeNode.java" />
-        <option value="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLTreeNode.java" />
-        <option value="$PROJECT_DIR$/java/HW6/src/ru/spbau/bandurin/task6/AVLBinarySearchTree.java" />
-        <option value="$PROJECT_DIR$/algo/FastMultiply/src/MainFFT.java" />
-        <option value="$PROJECT_DIR$/algo/ModSQRT/src/Main.java" />
-        <option value="$PROJECT_DIR$/algo/ModSQRT/src/ListOfPrimitives.java" />
-        <option value="$PROJECT_DIR$/algo/ModSQRT/in1" />
-        <option value="$PROJECT_DIR$/algo/ModSQRT/in2" />
-        <option value="$PROJECT_DIR$/algo/ModSQRT/src/ListOfPrimes.java" />
-        <option value="$PROJECT_DIR$/primes" />
         <option value="$PROJECT_DIR$/algo/ModSQRT/in4" />
         <option value="$PROJECT_DIR$/algo/ModSQRT/src/in5" />
         <option value="$PROJECT_DIR$/algo/ModSQRT/src/MainClass.java" />
         <option value="$PROJECT_DIR$/algo/ModSQRT/in5" />
         <option value="$PROJECT_DIR$/algo/ModSQRT/in3" />
+        <option value="$PROJECT_DIR$/java/HW10/src/Main.java" />
         <option value="$PROJECT_DIR$/algo/ModSQRT/src/QuadraticResidue.java" />
+        <option value="$PROJECT_DIR$/algo/ColorRMQ/src/Main.java" />
+        <option value="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main.java" />
+        <option value="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in1" />
+        <option value="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main2.java" />
+        <option value="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in9" />
+        <option value="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/SegmentTree.java" />
+        <option value="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in10" />
+        <option value="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/SegmentTreeFast.java" />
+        <option value="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/Main.java" />
       </list>
     </option>
   </component>
@@ -1362,7 +1442,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1598" />
-    <option name="height" value="1062" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -1408,6 +1488,17 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1422,94 +1513,27 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="RMQ_SHARP_MIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RMQ_SHARP_MIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RMQ_SHARP_MIN" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Main.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModSQRT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="au-code-base" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ModSQRT" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="Palindrom" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope">
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GenerateAntBuildDialog.generateIdeaHomeProperty" value="false" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
-    <property name="OverrideImplement.combined" value="false" />
     <property name="project.structure.proportion" value="0.15" />
+    <property name="OverrideImplement.combined" value="false" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="GenerateAntBuildDialog.generateSingleFile" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/algo/Palindrom" />
     <property name="GenerateAntBuildDialog.inclineRuntiemClasspath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/algo/ModSQRT/in1" />
     <property name="GenerateAntBuildDialog.outputFileNameProperty" value="au-code-base" />
     <property name="GenerateAntBuildDialog.enableUiFormCompile" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -1523,23 +1547,24 @@
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/java/HW5/test/ru/spbau/bandurin/task5" />
     <property name="options.lastSelected" value="fileTemplates" />
-    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="GenerateAntBuildDialog.backupFiles" value="true" />
-    <property name="dynamic.classpath" value="false" />
     <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="ru.spbau.bandurin.task5" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ru.spbau.bandurin.task5" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="T:\au-learn-code-base\algo\UpdateRangeAndMaxRMQ" />
       <recent name="T:\au-learn-code-base\algo\ColorRMQ" />
       <recent name="T:\au-learn-code-base\algo\RMQ_SHARP_MIN" />
       <recent name="P:\Tutorial\au-learn-code-base\java\HW3-2013\src" />
@@ -1548,34 +1573,18 @@
       <recent name="ru.spbau.bandurin.task6" />
       <recent name="ru.spbau.bandurin.task2" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ru.spbau.bandurin.task3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="T:\au-learn-code-base\algo\UpdateRangeAndMaxRMQ" />
       <recent name="T:\au-learn-code-base\algo\ModSQRT" />
       <recent name="T:\au-learn-code-base\algo\FastMultiply" />
       <recent name="T:\au-learn-code-base\algo\RMQ_SHARP_MIN" />
       <recent name="P:\Tutorial\au-learn-code-base\java\HW3-2013" />
     </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="ru.spbau.bandurin.task3" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.QuadraticResidue">
-    <configuration default="false" name="MainFFT" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
-      <option name="MAIN_CLASS_NAME" value="MainFFT" />
-      <option name="VM_PARAMETERS" value="-Xmx64M" />
-      <option name="PROGRAM_PARAMETERS" value="T:\au-learn-code-base\algo\FastMultiply\in1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FastMultiply" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.SegmentTreeFast">
     <configuration default="false" name="QuadraticResidue" type="Application" factoryName="Application" editBeforeRun="true" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
       <option name="MAIN_CLASS_NAME" value="QuadraticResidue" />
@@ -1587,7 +1596,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
+      <module name="Palindrom" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1596,23 +1605,6 @@
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Debug" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="MainClass" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
-      <option name="MAIN_CLASS_NAME" value="MainClass" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="T:\au-learn-code-base\algo\ModSQRT\in1" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
-      <envs />
-      <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1627,38 +1619,72 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
+      <module name="Palindrom" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
-    <configuration default="false" name="TreeTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.spbau.bandurin.task6.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <extension name="snapshooter" />
-      <module name="HW6" />
+    <configuration default="false" name="Main" type="Application" factoryName="Application" editBeforeRun="true" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="T:\au-learn-code-base\algo\UpdateRangeAndMaxRMQ\in10" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" value="" />
-      <option name="PACKAGE_NAME" value="ru.spbau.bandurin.task6" />
-      <option name="MAIN_CLASS_NAME" value="ru.spbau.bandurin.task6.TreeTest" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="" />
-      <option name="PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
+      <module name="Palindrom" />
       <envs />
-      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Main2" type="Application" factoryName="Application" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" runner="emma" />
+      <option name="MAIN_CLASS_NAME" value="Main2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Palindrom" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="SegmentTreeFast" type="Application" factoryName="Application" editBeforeRun="true" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="emma" />
+      <option name="MAIN_CLASS_NAME" value="SegmentTreeFast" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="T:\au-learn-code-base\algo\UpdateRangeAndMaxRMQ\in10" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Palindrom" />
+      <envs />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
@@ -1736,7 +1762,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
+      <module name="Palindrom" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1764,7 +1790,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
+      <module name="Palindrom" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -1781,7 +1807,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
+      <module name="Palindrom" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -1798,7 +1824,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ModSQRT" />
+      <module name="Palindrom" />
       <envs />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
@@ -1815,19 +1841,19 @@
       <item index="1" class="java.lang.String" itemvalue="Application.Compress" />
       <item index="2" class="java.lang.String" itemvalue="Application.MatrixHash" />
       <item index="3" class="java.lang.String" itemvalue="Application.FastMultiply" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MainFFT" />
-      <item index="5" class="java.lang.String" itemvalue="Application.QuadraticResidue" />
-      <item index="6" class="java.lang.String" itemvalue="Application.MainClass" />
-      <item index="7" class="java.lang.String" itemvalue="Application.ListOfPrimes" />
-      <item index="8" class="java.lang.String" itemvalue="JUnit.TreeTest" />
+      <item index="4" class="java.lang.String" itemvalue="Application.QuadraticResidue" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ListOfPrimes" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Main2" />
+      <item index="8" class="java.lang.String" itemvalue="Application.SegmentTreeFast" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.QuadraticResidue" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MainClass" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ListOfPrimes" />
-        <item index="3" class="java.lang.String" itemvalue="Application.MainFFT" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TreeTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SegmentTreeFast" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Main2" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="4" class="java.lang.String" itemvalue="Application.QuadraticResidue" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1906,24 +1932,28 @@
       <created>1366236599943</created>
       <updated>1366236599943</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Algoritms : FFT&#10;                  karatsuba multiply&#10;                 ModSQRT&#10;                 &#10;java         : &#10;                   HW6 BinarySearchTree">
+      <created>1367536839517</created>
+      <updated>1367536839517</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="3616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1598" height="1062" extended-state="0" />
+    <frame x="-8" y="-8" width="1598" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3281768" sideWeight="0.62890625" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281768" sideWeight="0.62890625" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.48950276" sideWeight="0.6401945" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="JavaEE:App" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959481" sideWeight="0.48584372" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3359116" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.5085653" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TeamCity" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3281768" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Kotlin" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1931,15 +1961,14 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18229167" sideWeight="0.2674033" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34653464" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32486188" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.42513022" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18229167" sideWeight="0.6718232" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4243094" sideWeight="0.7154948" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.46484375" sideWeight="0.4913295" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3038674" sideWeight="0.7154948" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.3294271" sideWeight="0.5687569" order="8" side_tool="false" content_ui="tabs" x="515" y="518" width="809" height="423" />
       <window_info id="Problems" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32842582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18395463" sideWeight="0.54020387" order="12" side_tool="true" content_ui="tabs" />
@@ -1949,6 +1978,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3878453" sideWeight="0.49739584" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32453245" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1994,7 +2024,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Algoritms : FastMultiply&#10;&#10;java         : &#10;                   HW7 Serializer/Deserializer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Algoritms : FFT&#10;                  karatsuba multiply&#10;                 ModSQRT&#10;                 &#10;java         : &#10;                   HW6 BinarySearchTree" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -2012,6 +2042,7 @@
     <MESSAGE value="fix relative path bug" />
     <MESSAGE value="Algoritms : ColorRMQ&#10;                  RMQ sharp-min&#10;                   MatrixHash&#10;java         : &#10;                   HW6 BinarySearchTree" />
     <MESSAGE value="Algoritms : FastMultiply&#10;&#10;java         : &#10;                   HW7 Serializer/Deserializer" />
+    <MESSAGE value="Algoritms : FFT&#10;                  karatsuba multiply&#10;                 ModSQRT&#10;                 &#10;java         : &#10;                   HW6 BinarySearchTree" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2136,99 +2167,101 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algo/FastMultiply/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/java/HW1/src/ru/spbau/bandurin/task1/AbstractMessageWriter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="62" selection-start="634" selection-end="684" vertical-scroll-proportion="0.0" />
+        <state line="12" column="7" selection-start="332" selection-end="332" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/math/BigInteger.java">
+    <entry file="file://$PROJECT_DIR$/java/HW10/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="947" column="29" selection-start="35145" selection-end="35145" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/in3">
-      <provider selected="true" editor-type-id="LargeFileEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="4" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/primes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="616963" selection-start="0" selection-end="616963" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_15/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="907" column="23" selection-start="40798" selection-end="40798" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in4">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="0" selection-start="2" selection-end="12" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/ListOfPrimes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="66" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in3">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="2" selection-start="2" selection-end="2" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/lang/StrictMath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="595" column="32" selection-start="24454" selection-end="24454" vertical-scroll-proportion="0.33333334" />
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="608" column="23" selection-start="25325" selection-end="25325" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/in5">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="999" column="88" selection-start="21982" selection-end="21982" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="12" column="34" selection-start="473" selection-end="473" vertical-scroll-proportion="0.34256056" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/QuadraticResidue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="181" column="30" selection-start="26404" selection-end="26404" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#22978#22984#0" expanded="true" />
-          </folding>
+        <state line="165" column="21" selection-start="26030" selection-end="26030" vertical-scroll-proportion="0.03539823" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/ColorRMQ/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="23" selection-start="1710" selection-end="1710" vertical-scroll-proportion="1.7687075" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in7">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="38" selection-start="3128" selection-end="3128" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="862" column="0" selection-start="35908" selection-end="35908" vertical-scroll-proportion="0.35766423">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/algo/ModSQRT/src/MainClass.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="26" selection-start="838" selection-end="838" vertical-scroll-proportion="0.79037803">
+        <state line="1303" column="24" selection-start="45061" selection-end="45061" vertical-scroll-proportion="0.0">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="992" column="20" selection-start="45360" selection-end="45360" vertical-scroll-proportion="0.4580499" />
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.6.0_25/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1775" column="37" selection-start="68198" selection-end="68198" vertical-scroll-proportion="0.1448598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="7" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/RMQ_SHARP_MIN/src/Main2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="32" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in9">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="100001" column="7" selection-start="3044287" selection-end="3044287" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/in10">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="28" selection-start="10482897" selection-end="10482907" vertical-scroll-proportion="-1.745098">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/SegmentTreeFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="65" selection-start="4127" selection-end="4127" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="123" column="35" selection-start="4416" selection-end="4416" vertical-scroll-proportion="0.19266056">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2239,10 +2272,10 @@
         <settings>
           <artifact-editor>
             <show-content>
+              <type id="jpa-descriptors" />
               <type id="library" />
               <type id="javaee-facet-resources" />
               <type id="artifact" />
-              <type id="jpa-descriptors" />
             </show-content>
           </artifact-editor>
           <last-edited>Task6</last-edited>
@@ -2294,12 +2327,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ModSQRT</last-edited>
+          <last-edited>Palindrom</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>

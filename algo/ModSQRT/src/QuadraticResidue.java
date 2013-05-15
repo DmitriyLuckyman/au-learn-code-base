@@ -58,6 +58,7 @@ public class QuadraticResidue {
                 return r2 == r1 ? new long[]{r1} : new long[]{r1, r2};
             }
         } else {
+            //CRT
             final long[] zeroFactorRoots = squareRootMod(a, p1);
             final long[] firstFactorRoots = squareRootMod(a, p2);
             final long zeroInverse = getInverse(p2, p1);
@@ -109,11 +110,10 @@ public class QuadraticResidue {
     }
 
     public static boolean isRQ(final long a, final long p) {
-        final long s = (p - 1) / 2;
-        return exp_mod(a, s, p) == 1;
+        return powMod(a, (p - 1) / 2, p) == 1;
     }
 
-    static long getInverse(final long a, final long m) {
+    public static long getInverse(final long a, final long m) {
         long x, y, q, r, x1 = 0, x2 = 1, y1 = 1, y2 =0;
         long p = m;
         long a1 = a;
@@ -132,7 +132,7 @@ public class QuadraticResidue {
         return ((x2 % m) + m) % m;
     }
 
-    static long[] squareRootMod(final long a, final long p) {
+    public static long[] squareRootMod(final long a, final long p) {
         long r;
         if(a % p == 0){
             r = 0;
@@ -145,7 +145,7 @@ public class QuadraticResidue {
                 Q >>= 1;
             }
             if (s == 1 && p % 4 == 3) {
-                r = exp_mod(a, (p + 1) / 4, p);
+                r = powMod(a, (p + 1) / 4, p);
             } else {
                 long z = 2;
                 while (isRQ(z, p)) {
@@ -154,13 +154,13 @@ public class QuadraticResidue {
 
                 long ai = getInverse(a, p);
 
-                long c = exp_mod(z, Q, p);
+                long c = powMod(z, Q, p);
 
-                r = exp_mod(a, (Q + 1) / 2, p);
+                r = powMod(a, (Q + 1) / 2, p);
 
                 for (int i = 1; i < s; i++) {
-                    long e = exp_mod(2, s - i - 1, p);
-                    long d = exp_mod((r * r % p) * ai % p, e, p);
+                    long e = powMod(2, s - i - 1, p);
+                    long d = powMod((r * r % p) * ai % p, e, p);
                     if (d == p - 1) {
                         r = r * c % p;
                     }
@@ -171,15 +171,9 @@ public class QuadraticResidue {
         return new long[]{r, p - r};
     }
 
-    private static long exp_mod(final long a, final long e, final long p) {
-        return powmod(a, e, p);
-    }
-
-    static long powmod(long a, long k, long n) {
+    public static long powMod(long a, long k, long n) {
         long b=1;
-        if(k < 0){
-            throw new RuntimeException();
-        }
+
         while (k != 0) {
             if (k % 2==0) {
                 k /= 2;

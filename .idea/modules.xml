@@ -15,7 +15,9 @@
       <module fileurl="file://$PROJECT_DIR$/java/HW7/HW7.iml" filepath="$PROJECT_DIR$/java/HW7/HW7.iml" />
       <module fileurl="file://$PROJECT_DIR$/algo/MatrixHash/MatrixHash.iml" filepath="$PROJECT_DIR$/algo/MatrixHash/MatrixHash.iml" />
       <module fileurl="file://$PROJECT_DIR$/algo/ModSQRT/ModSQRT.iml" filepath="$PROJECT_DIR$/algo/ModSQRT/ModSQRT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo/Palindrom/Palindrom.iml" filepath="$PROJECT_DIR$/algo/Palindrom/Palindrom.iml" />
       <module fileurl="file://$PROJECT_DIR$/algo/RMQ_SHARP_MIN/RMQ_SHARP_MIN.iml" filepath="$PROJECT_DIR$/algo/RMQ_SHARP_MIN/RMQ_SHARP_MIN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/UpdateRangeAndMaxRMQ.iml" filepath="$PROJECT_DIR$/algo/UpdateRangeAndMaxRMQ/UpdateRangeAndMaxRMQ.iml" />
     </modules>
   </component>
 </project>
