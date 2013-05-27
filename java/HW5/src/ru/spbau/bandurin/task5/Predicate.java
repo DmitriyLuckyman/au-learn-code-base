@@ -26,7 +26,7 @@ public abstract class Predicate<P1> extends Function1<P1, Boolean> {
      * @param predicate second argument of and operator
      * @return new predicate
      */
-    public final Predicate<? super P1> and(final Predicate<? super P1> predicate){
+    public final <Z extends P1> Predicate<Z> and(final Predicate<? super P1> predicate){
         return and(this, predicate);
     }
 
@@ -35,7 +35,7 @@ public abstract class Predicate<P1> extends Function1<P1, Boolean> {
      * @param predicate second argument of or operator
      * @return new predicate
      */
-    public final Predicate<? super P1> or(final Predicate<? super P1> predicate){
+    public final Predicate<P1> or(final Predicate<? super P1> predicate){
         return or(this, predicate);
     }
 
@@ -44,10 +44,10 @@ public abstract class Predicate<P1> extends Function1<P1, Boolean> {
      * @param predicate source predicate
      * @return new predicate
      */
-    public static <P1> Predicate<P1> not(final Predicate<P1> predicate){
-        return new Predicate<P1>() {
+    public static <Z, T extends Z> Predicate<T> not(final Predicate<? super Z> predicate){
+        return new Predicate<T>() {
             @Override
-            public Boolean apply(final P1 p1) {
+            public Boolean apply(final T p1) {
                 return !predicate.apply(p1);
             }
         };
@@ -59,10 +59,10 @@ public abstract class Predicate<P1> extends Function1<P1, Boolean> {
      * @param secondPredicate second argument of and operation
      * @return new predicate
      */
-    public static <P1> Predicate<? super P1> and(final Predicate<? super P1> firstPredicate, final Predicate<? super P1> secondPredicate){
-        return new Predicate<P1>() {
+    public static <P1, Z extends P1> Predicate<Z> and(final Predicate<? super P1> firstPredicate, final Predicate<? super P1> secondPredicate){
+        return new Predicate<Z>() {
             @Override
-            public Boolean apply(final P1 p1) {
+            public Boolean apply(final Z p1) {
                 return firstPredicate.apply(p1) && secondPredicate.apply(p1);
             }
         };
@@ -74,10 +74,10 @@ public abstract class Predicate<P1> extends Function1<P1, Boolean> {
      * @param secondPredicate second argument of or operation
      * @return new predicate
      */
-    public static <P1> Predicate<? super P1> or(final Predicate<? super P1> firstPredicate, final Predicate<? super P1> secondPredicate){
-        return new Predicate<P1>() {
+    public static <P1, T extends P1> Predicate<T> or(final Predicate<? super P1> firstPredicate, final Predicate<? super P1> secondPredicate){
+        return new Predicate<T>() {
             @Override
-            public Boolean apply(final P1 p1) {
+            public Boolean apply(final T p1) {
                 return firstPredicate.apply(p1) || secondPredicate.apply(p1);
             }
         };

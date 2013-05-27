@@ -34,10 +34,18 @@ public class PredicateTest {
             }
         };
 
-        Predicate<? super Integer> between5And7 = p.and(n);
+        Predicate<Integer> between5And7 = p.and(n);
         assertTrue(between5And7.apply(6));
         assertFalse(between5And7.apply(5));
         assertFalse(between5And7.apply(7));
+    }
+
+    @Test
+    public void testString() throws Exception {
+        Predicate<String> s = Predicate.alwaysFalse();
+        Predicate<Object> s2 = Predicate.alwaysTrue();
+        Predicate<String> s3 = s.and(s2);
+        assertFalse(s3.apply(""));
     }
 
     @Test

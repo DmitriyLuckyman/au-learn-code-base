@@ -19,7 +19,7 @@ public abstract class Function2<P1, P2, R> {
      * @param g function to send result of current function as input parameter
      * @return new composite function
      */
-    public final <C> Function2<P1, P2, C> then(final Function1<R, C> g) {
+    public final <C> Function2<P1, P2, C> then(final Function1<? super R , C> g) {
         return new Function2<P1, P2, C>() {
             public C apply(final P1 p1, final P2 p2) {
                 return g.apply(Function2.this.apply(p1, p2));
